@@ -32,10 +32,58 @@
  <summary><h3>Latest YouTube Video</h3></summary>
 
 <!-- BEGIN VID -->
-<a href="https://www.youtube.com/watch?v=by8NEqw4Y4A">
+<a href="https://www.youtube.com/watch?v=8krJy31Diow">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=by8NEqw4Y4A&title=Cleaning+a4tech+keyboard&lang=en&timestamp=1699446619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=969">
-    <img src="https://ytcards.demolab.com/?id=by8NEqw4Y4A&title=Cleaning+a4tech+keyboard&lang=en&timestamp=1699446619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=969" alt="Cleaning a4tech keyboard" title="Cleaning a4tech keyboard">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8krJy31Diow&title=Holding+Bigger+And+Bigger+Dogs&lang=en&timestamp=1726509600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
+    <img src="https://ytcards.demolab.com/?id=8krJy31Diow&title=Holding+Bigger+And+Bigger+Dogs&lang=en&timestamp=1726509600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="Holding Bigger And Bigger Dogs" title="Holding Bigger And Bigger Dogs">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=aRcUVhVlSHg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aRcUVhVlSHg&title=Men+Vs+Women+Survive+The+Wilderness+For+%24500%2C000&lang=en&timestamp=1725724800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1908">
+    <img src="https://ytcards.demolab.com/?id=aRcUVhVlSHg&title=Men+Vs+Women+Survive+The+Wilderness+For+%24500%2C000&lang=en&timestamp=1725724800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1908" alt="Men Vs Women Survive The Wilderness For $500,000" title="Men Vs Women Survive The Wilderness For $500,000">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=Jo7sfpeWqwE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Jo7sfpeWqwE&title=Will+A+Guitar+Boat+Hold+My+Weight%3F&lang=en&timestamp=1725552001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=Jo7sfpeWqwE&title=Will+A+Guitar+Boat+Hold+My+Weight%3F&lang=en&timestamp=1725552001&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Will A Guitar Boat Hold My Weight?" title="Will A Guitar Boat Hold My Weight?">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=QtD-CeUdRUQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QtD-CeUdRUQ&title=Real+Or+Cake+For+%2410%2C000&lang=en&timestamp=1724947200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
+    <img src="https://ytcards.demolab.com/?id=QtD-CeUdRUQ&title=Real+Or+Cake+For+%2410%2C000&lang=en&timestamp=1724947200&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="Real Or Cake For $10,000" title="Real Or Cake For $10,000">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=ndAQfTzlVjc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ndAQfTzlVjc&title=7+Days+Stranded+In+A+Cave&lang=en&timestamp=1723910400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1079">
+    <img src="https://ytcards.demolab.com/?id=ndAQfTzlVjc&title=7+Days+Stranded+In+A+Cave&lang=en&timestamp=1723910400&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1079" alt="7 Days Stranded In A Cave" title="7 Days Stranded In A Cave">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=AydS-vA3qa4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AydS-vA3qa4&title=Running+With+Bigger+And+Bigger+Feastables&lang=en&timestamp=1723762800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17">
+    <img src="https://ytcards.demolab.com/?id=AydS-vA3qa4&title=Running+With+Bigger+And+Bigger+Feastables&lang=en&timestamp=1723762800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17" alt="Running With Bigger And Bigger Feastables" title="Running With Bigger And Bigger Feastables">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=UPrkC1LdlLY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UPrkC1LdlLY&title=Survive+100+Days+In+Nuclear+Bunker%2C+Win+%24500%2C000&lang=en&timestamp=1722700800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1941">
+    <img src="https://ytcards.demolab.com/?id=UPrkC1LdlLY&title=Survive+100+Days+In+Nuclear+Bunker%2C+Win+%24500%2C000&lang=en&timestamp=1722700800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1941" alt="Survive 100 Days In Nuclear Bunker, Win $500,000" title="Survive 100 Days In Nuclear Bunker, Win $500,000">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=8bTQMDM4qvY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8bTQMDM4qvY&title=Spot+The+Fake+Animal+For+%2410%2C000&lang=en&timestamp=1721404800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
+    <img src="https://ytcards.demolab.com/?id=8bTQMDM4qvY&title=Spot+The+Fake+Animal+For+%2410%2C000&lang=en&timestamp=1721404800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Spot The Fake Animal For $10,000" title="Spot The Fake Animal For $10,000">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=4SNThp0YiU4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4SNThp0YiU4&title=50+YouTubers+Fight+For+%241%2C000%2C000&lang=en&timestamp=1720886401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2487">
+    <img src="https://ytcards.demolab.com/?id=4SNThp0YiU4&title=50+YouTubers+Fight+For+%241%2C000%2C000&lang=en&timestamp=1720886401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2487" alt="50 YouTubers Fight For $1,000,000" title="50 YouTubers Fight For $1,000,000">
   </picture>
 </a>
 <!-- END VID -->
