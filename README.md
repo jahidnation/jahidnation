@@ -43,10 +43,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Qualcomm-এর নতুন 8-Core Snapdragon X Plus প্রসেসর: কমিয়ে আনবে ল্যাপটপের দাম | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/09/18/qualcomm-%e0%a6%8f%e0%a6%b0-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-8-core-snapdragon-x-plus-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%87%e0%a6%b8%e0%a6%b0-%e0%a6%95%e0%a6%ae%e0%a6%bf%e0%a6%af%e0%a6%bc/)
-- [Fairphone 5 ফেয়ারফোন ৫ নিয়ে এলো সাশ্রীয় 6/128 GB ভেরিয়েন্ট | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/09/18/fairphone-5-%e0%a6%ab%e0%a7%87%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a6%ab%e0%a7%8b%e0%a6%a8-%e0%a7%ab-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%8f%e0%a6%b2%e0%a7%8b-%e0%a6%b8%e0%a6%be/)
-- [পড়াশুনায় মনোযোগী হওয়ার ৫ টি Scientific উপায়](https://dev-blog-reader.pantheonsite.io/2024/09/17/%e0%a6%aa%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%b6%e0%a7%81%e0%a6%a8%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ae%e0%a6%a8%e0%a7%8b%e0%a6%af%e0%a7%8b%e0%a6%97%e0%a7%80-%e0%a6%b9%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be/)
-- [কেও যদি আপনার থেকে ফোন হুট করে কেড়ে নিলে, যে অ্যাপে কাজ করছিলেন তা উধাও হয়ে যাবে [২য় পর্ব]](https://dev-blog-reader.pantheonsite.io/2024/09/16/%e0%a6%95%e0%a7%87%e0%a6%93-%e0%a6%af%e0%a6%a6%e0%a6%bf-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%ab%e0%a7%8b%e0%a6%a8-%e0%a6%b9%e0%a7%81%e0%a6%9f/)
+- [মাত্র দুই ক্লিকেই যে কোন Vpn প্রিমিয়াম করে ফেলুন।](https://dev-blog-reader.pantheonsite.io/2024/09/25/%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%8d%e0%a6%b0-%e0%a6%a6%e0%a7%81%e0%a6%87-%e0%a6%95%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%87-%e0%a6%af%e0%a7%87-%e0%a6%95%e0%a7%8b%e0%a6%a8-vpn-%e0%a6%aa/)
+- [কি ভাবে YouTube artist verified apply করতে পারবেন](https://dev-blog-reader.pantheonsite.io/2024/09/24/%e0%a6%95%e0%a6%bf-%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-youtube-artist-verified-apply-%e0%a6%95%e0%a6%b0%e0%a6%a4%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a6%ac%e0%a7%87%e0%a6%a8/)
+- [যে ৫ টি ভুলের কারণে আপনার ফ্রিল্যান্সিং ক্যারিয়ার পড়ে যেতে পারে হুমকির মুখে | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/09/24/%e0%a6%af%e0%a7%87-%e0%a7%ab-%e0%a6%9f%e0%a6%bf-%e0%a6%ad%e0%a7%81%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%ab/)
+- [পর্ব ২৭ dappradar এর রিভিও!](https://dev-blog-reader.pantheonsite.io/2024/09/24/%e0%a6%aa%e0%a6%b0%e0%a7%8d%e0%a6%ac-%e0%a7%a8%e0%a7%ad-dappradar-%e0%a6%8f%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%93/)
+- [[php] নিজের ওয়েবসাইটে কোড কম্প্রেসর টুল বানান php দিয়ে সাথে সম্পূর্ণ সোর্সকোড](https://dev-blog-reader.pantheonsite.io/2024/09/24/php-%e0%a6%a8%e0%a6%bf%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f%e0%a7%87-%e0%a6%95%e0%a7%8b%e0%a6%a1-%e0%a6%95%e0%a6%ae%e0%a7%8d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
