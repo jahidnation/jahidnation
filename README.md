@@ -43,11 +43,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [মাত্র দুই ক্লিকেই যে কোন Vpn প্রিমিয়াম করে ফেলুন।](https://dev-blog-reader.pantheonsite.io/2024/09/25/%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%8d%e0%a6%b0-%e0%a6%a6%e0%a7%81%e0%a6%87-%e0%a6%95%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%87-%e0%a6%af%e0%a7%87-%e0%a6%95%e0%a7%8b%e0%a6%a8-vpn-%e0%a6%aa/)
-- [কি ভাবে YouTube artist verified apply করতে পারবেন](https://dev-blog-reader.pantheonsite.io/2024/09/24/%e0%a6%95%e0%a6%bf-%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-youtube-artist-verified-apply-%e0%a6%95%e0%a6%b0%e0%a6%a4%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a6%ac%e0%a7%87%e0%a6%a8/)
-- [যে ৫ টি ভুলের কারণে আপনার ফ্রিল্যান্সিং ক্যারিয়ার পড়ে যেতে পারে হুমকির মুখে | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/09/24/%e0%a6%af%e0%a7%87-%e0%a7%ab-%e0%a6%9f%e0%a6%bf-%e0%a6%ad%e0%a7%81%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%ab/)
-- [পর্ব ২৭ dappradar এর রিভিও!](https://dev-blog-reader.pantheonsite.io/2024/09/24/%e0%a6%aa%e0%a6%b0%e0%a7%8d%e0%a6%ac-%e0%a7%a8%e0%a7%ad-dappradar-%e0%a6%8f%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%93/)
-- [[php] নিজের ওয়েবসাইটে কোড কম্প্রেসর টুল বানান php দিয়ে সাথে সম্পূর্ণ সোর্সকোড](https://dev-blog-reader.pantheonsite.io/2024/09/24/php-%e0%a6%a8%e0%a6%bf%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f%e0%a7%87-%e0%a6%95%e0%a7%8b%e0%a6%a1-%e0%a6%95%e0%a6%ae%e0%a7%8d/)
+- [গ্রে হ্যাট হ্যাকার কী? এবং Grey Hat Hacker কী করে? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/02/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87-%e0%a6%b9%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%9f-%e0%a6%b9%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a7%80-%e0%a6%8f%e0%a6%ac%e0%a6%82-grey/)
+- [এয়ারটেল &amp; রবি সিমে আনলিমিটেড ফ্রি নেট ব্যবহার করুন,সাথে youtube Playstore সব কিছুই।](https://dev-blog-reader.pantheonsite.io/2024/10/02/%e0%a6%8f%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a6%9f%e0%a7%87%e0%a6%b2-%e0%a6%b0%e0%a6%ac%e0%a6%bf-%e0%a6%b8%e0%a6%bf%e0%a6%ae%e0%a7%87-%e0%a6%86%e0%a6%a8%e0%a6%b2%e0%a6%bf%e0%a6%ae%e0%a6%bf/)
+- [Wapka তে তৈরি করুন Blog-Reader PC Version সাইট || Part 3](https://dev-blog-reader.pantheonsite.io/2024/10/02/wapka-%e0%a6%a4%e0%a7%87-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-blog-reader-pc-version-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-part-3/)
+- [কম দামে কম্পিউটার বা ল্যাপটপ কেনার সেরা সময় কখন? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/02/%e0%a6%95%e0%a6%ae-%e0%a6%a6%e0%a6%be%e0%a6%ae%e0%a7%87-%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%ac%e0%a6%be-%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be/)
+- [Wapka তে তৈরি করুন Blog-Reader PC Version সাইট || Part 2](https://dev-blog-reader.pantheonsite.io/2024/10/02/wapka-%e0%a6%a4%e0%a7%87-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-blog-reader-pc-version-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
