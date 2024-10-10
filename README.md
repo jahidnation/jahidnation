@@ -43,11 +43,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [গ্রে হ্যাট হ্যাকার কী? এবং Grey Hat Hacker কী করে? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/02/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87-%e0%a6%b9%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%9f-%e0%a6%b9%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a7%80-%e0%a6%8f%e0%a6%ac%e0%a6%82-grey/)
-- [এয়ারটেল &amp; রবি সিমে আনলিমিটেড ফ্রি নেট ব্যবহার করুন,সাথে youtube Playstore সব কিছুই।](https://dev-blog-reader.pantheonsite.io/2024/10/02/%e0%a6%8f%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a6%9f%e0%a7%87%e0%a6%b2-%e0%a6%b0%e0%a6%ac%e0%a6%bf-%e0%a6%b8%e0%a6%bf%e0%a6%ae%e0%a7%87-%e0%a6%86%e0%a6%a8%e0%a6%b2%e0%a6%bf%e0%a6%ae%e0%a6%bf/)
-- [Wapka তে তৈরি করুন Blog-Reader PC Version সাইট || Part 3](https://dev-blog-reader.pantheonsite.io/2024/10/02/wapka-%e0%a6%a4%e0%a7%87-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-blog-reader-pc-version-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-part-3/)
-- [কম দামে কম্পিউটার বা ল্যাপটপ কেনার সেরা সময় কখন? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/02/%e0%a6%95%e0%a6%ae-%e0%a6%a6%e0%a6%be%e0%a6%ae%e0%a7%87-%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%ac%e0%a6%be-%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be/)
-- [Wapka তে তৈরি করুন Blog-Reader PC Version সাইট || Part 2](https://dev-blog-reader.pantheonsite.io/2024/10/02/wapka-%e0%a6%a4%e0%a7%87-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-blog-reader-pc-version-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-part-2/)
+- [যে ৭ টি কারণে আপনার কম্পিউটার ধীর গতিতে চলতে পারে, সমস্যার সমাধান গুলো জেনে রাখুন! | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%af%e0%a7%87-%e0%a7%ad-%e0%a6%9f%e0%a6%bf-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89/)
+- [ফিশিং কী? কয় ধরনের ফিশিং টেকনিক রয়েছে? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%ab%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a6%82-%e0%a6%95%e0%a7%80-%e0%a6%95%e0%a6%af%e0%a6%bc-%e0%a6%a7%e0%a6%b0%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%ab%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a6%82-%e0%a6%9f/)
+- [সেরা ৫টি Android Mod Apps ননরুটেড ফোনের জন্য](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a7%ab%e0%a6%9f%e0%a6%bf-android-mod-apps-%e0%a6%a8%e0%a6%a8%e0%a6%b0%e0%a7%81%e0%a6%9f%e0%a7%87%e0%a6%a1-%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87%e0%a6%b0/)
+- [বর্তমানে মোবাইল ফটোগ্রাফিতে AI এবং মেশিন লার্নিং এর প্রভাব, আপনি এগুলো সম্পর্কে জানেন কি? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%a4%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ae%e0%a7%8b%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%b2-%e0%a6%ab%e0%a6%9f%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab/)
+- [Wapka তে তৈরি করুন Blog-Reader PC Version সাইট || Part 12](https://dev-blog-reader.pantheonsite.io/2024/10/10/wapka-%e0%a6%a4%e0%a7%87-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-blog-reader-pc-version-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-part-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
