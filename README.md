@@ -43,11 +43,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [যে ৭ টি কারণে আপনার কম্পিউটার ধীর গতিতে চলতে পারে, সমস্যার সমাধান গুলো জেনে রাখুন! | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%af%e0%a7%87-%e0%a7%ad-%e0%a6%9f%e0%a6%bf-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a3%e0%a7%87-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89/)
-- [ফিশিং কী? কয় ধরনের ফিশিং টেকনিক রয়েছে? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%ab%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a6%82-%e0%a6%95%e0%a7%80-%e0%a6%95%e0%a6%af%e0%a6%bc-%e0%a6%a7%e0%a6%b0%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%ab%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a6%82-%e0%a6%9f/)
-- [সেরা ৫টি Android Mod Apps ননরুটেড ফোনের জন্য](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a7%ab%e0%a6%9f%e0%a6%bf-android-mod-apps-%e0%a6%a8%e0%a6%a8%e0%a6%b0%e0%a7%81%e0%a6%9f%e0%a7%87%e0%a6%a1-%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87%e0%a6%b0/)
-- [বর্তমানে মোবাইল ফটোগ্রাফিতে AI এবং মেশিন লার্নিং এর প্রভাব, আপনি এগুলো সম্পর্কে জানেন কি? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/10/%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%a4%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ae%e0%a7%8b%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%b2-%e0%a6%ab%e0%a6%9f%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab/)
-- [Wapka তে তৈরি করুন Blog-Reader PC Version সাইট || Part 12](https://dev-blog-reader.pantheonsite.io/2024/10/10/wapka-%e0%a6%a4%e0%a7%87-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-blog-reader-pc-version-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-part-12/)
+- [সেরা ইউটিউব অভিজ্ঞতা পেতে ব্যবহার করতে পারেন ৫ টি AI টুল | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/17/%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a6%87%e0%a6%89%e0%a6%9f%e0%a6%bf%e0%a6%89%e0%a6%ac-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be-%e0%a6%aa%e0%a7%87%e0%a6%a4/)
+- [সেরা ১৫ টি ডার্ক ওয়েবসাইট যেগুলো ব্যবহার করতে পারেন এখনই! | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/17/%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a7%a7%e0%a7%ab-%e0%a6%9f%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%87/)
+- [Windows 11 এ যাচাই করুন আপনার রx200d্যাম, রx200d্যামের স্পীড এবং ধরন | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/17/windows-11-%e0%a6%8f-%e0%a6%af%e0%a6%be%e0%a6%9a%e0%a6%be%e0%a6%87-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%b0x200d%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ae/)
+- [Windows 11 কে Debloat করুন দুই ক্লিকে | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/16/windows-11-%e0%a6%95%e0%a7%87-debloat-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-%e0%a6%a6%e0%a7%81%e0%a6%87-%e0%a6%95%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%95%e0%a7%87-blog-reader/)
+- [অ্যাপল এবং স্টিভ জবস যেভাবে বিশ্বকে পরিবর্তন করেছে | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/16/%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a6%b2-%e0%a6%8f%e0%a6%ac%e0%a6%82-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%ad-%e0%a6%9c%e0%a6%ac%e0%a6%b8-%e0%a6%af%e0%a7%87%e0%a6%ad%e0%a6%be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
