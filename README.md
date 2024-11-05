@@ -43,11 +43,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [ASRock নিয়ে এলো Radeon RX 6400 Low Profile GPU! | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/24/asrock-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%8f%e0%a6%b2%e0%a7%8b-radeon-rx-6400-low-profile-gpu-blog-reader/)
-- [ব্রাজিলিয়ান গেমিং কোম্পানি TecToy নিয়ে এলো নতুন Zeenix Lite এবং Zeenix Pro | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/24/%e0%a6%ac%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%a8-%e0%a6%97%e0%a7%87%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%95%e0%a7%8b%e0%a6%ae%e0%a7%8d%e0%a6%aa/)
-- [সেরা ইউটিউব অভিজ্ঞতা পেতে ব্যবহার করতে পারেন ৫ টি AI টুল | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/17/%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a6%87%e0%a6%89%e0%a6%9f%e0%a6%bf%e0%a6%89%e0%a6%ac-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be-%e0%a6%aa%e0%a7%87%e0%a6%a4/)
-- [সেরা ১৫ টি ডার্ক ওয়েবসাইট যেগুলো ব্যবহার করতে পারেন এখনই! | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/17/%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a7%a7%e0%a7%ab-%e0%a6%9f%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%87/)
-- [Windows 11 এ যাচাই করুন আপনার রx200d্যাম, রx200d্যামের স্পীড এবং ধরন | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/10/17/windows-11-%e0%a6%8f-%e0%a6%af%e0%a6%be%e0%a6%9a%e0%a6%be%e0%a6%87-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%b0-%e0%a6%b0x200d%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ae/)
+- [গ্রামীনফোনে Pay as you go বন্ধ করুন My GP অ্যাপ থেকে](https://dev-blog-reader.pantheonsite.io/2024/11/05/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a7%80%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87-pay-as-you-go-%e0%a6%ac%e0%a6%a8%e0%a7%8d%e0%a6%a7-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-my-gp-2/)
+- [গ্রামীনফোনে Pay as you go বন্ধ করুন My GP অ্যাপ থেকে](https://dev-blog-reader.pantheonsite.io/2024/11/05/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a7%80%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87-pay-as-you-go-%e0%a6%ac%e0%a6%a8%e0%a7%8d%e0%a6%a7-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a8-my-gp/)
+- [Evil PDF : কম্পিউটার/সাইবার সিকিউরিটির হুমকি ও নিরাপত্তা!](https://dev-blog-reader.pantheonsite.io/2024/11/05/evil-pdf-%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%bf%e0%a6%95%e0%a6%bf%e0%a6%89-2/)
+- [Evil PDF : কম্পিউটার/সাইবার সিকিউরিটির হুমকি ও নিরাপত্তা!](https://dev-blog-reader.pantheonsite.io/2024/11/04/evil-pdf-%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%bf%e0%a6%95%e0%a6%bf%e0%a6%89/)
+- [এবার বিঙের মনিটাইজ নাও দিয়ে ইনকাম করুন আপনার ব্লগ সাইট থেকে](https://dev-blog-reader.pantheonsite.io/2024/11/04/%e0%a6%8f%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%99%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%a8%e0%a6%bf%e0%a6%9f%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a6%a8%e0%a6%be%e0%a6%93-%e0%a6%a6%e0%a6%bf-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
