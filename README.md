@@ -1,5 +1,5 @@
 <h1 align="center">Jahid Hasan</h1>
-<img align="right" alt="GIF" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
+<img align="center" alt="GIF" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
 <details open>
  <summary><h3>Bio</h3></summary>
 <p align="center">
