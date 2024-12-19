@@ -45,11 +45,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [ASUS GeForce RTX 4070 Ti SUPER TUF OG সিরিজ পুরানো কুলারের সাথে নতুন গেমিং অভিজ্ঞতা! | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/12/11/asus-geforce-rtx-4070-ti-super-tuf-og-%e0%a6%b8%e0%a6%bf%e0%a6%b0%e0%a6%bf%e0%a6%9c-%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8b-%e0%a6%95%e0%a7%81%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a7%87/)
-- [PHP/Laravel দিয়ে TrickBD’র মতো সাইট তৈরি &lpar;পর্ব-২&rpar; – শুরু থেকে পূর্ণাঙ্গ গাইড!](https://dev-blog-reader.pantheonsite.io/2024/12/11/php-laravel-%e0%a6%a6%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-trickbd%e0%a6%b0-%e0%a6%ae%e0%a6%a4%e0%a7%8b-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%9f-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf-%e0%a6%aa-2/)
-- [ASUS-এর DUAL EVO White সিরিজ! দারুন ডিজাইন এবং পারফরম্যান্স | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/12/11/asus-%e0%a6%8f%e0%a6%b0-dual-evo-white-%e0%a6%b8%e0%a6%bf%e0%a6%b0%e0%a6%bf%e0%a6%9c-%e0%a6%a6%e0%a6%be%e0%a6%b0%e0%a7%81%e0%a6%a8-%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%be%e0%a6%87%e0%a6%a8-%e0%a6%8f/)
-- [Infinix Note 40 5G – বাজারে সবচেয়ে বাজেট-ফ্রেন্ডলি 120Hz ডিসপ্লে ও MagSafe স্টাইল চার্জিং সহ স্মার্টফোন | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/12/11/infinix-note-40-5g-%e0%a6%ac%e0%a6%be%e0%a6%9c%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%b8%e0%a6%ac%e0%a6%9a%e0%a7%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%9c%e0%a7%87%e0%a6%9f-%e0%a6%ab/)
-- [OTH Network – Influencers-দের জন্য Fintech Card-এর নতুন যুগ | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2024/12/11/oth-network-influencers-%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%9c%e0%a6%a8%e0%a7%8d%e0%a6%af-fintech-card-%e0%a6%8f%e0%a6%b0-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%af%e0%a7%81%e0%a6%97-blog-reade/)
+- [পেনড্রাইভে মাল্টিপল বুটেবল অপারেটিং সিস্টেম ইন্সটল করার সেরা ৪ টি সফটওয়্যার](https://dev-blog-reader.pantheonsite.io/2024/12/19/%e0%a6%aa%e0%a7%87%e0%a6%a8%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%87%e0%a6%ad%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%aa%e0%a6%b2-%e0%a6%ac%e0%a7%81%e0%a6%9f%e0%a7%87/)
+- [&lpar;Hot&rpar; Unlimited Free Call Any Nomber &lpar;নিজের নম্বর গোপন রেখে, কোন প্রকার লগইন ও এড ছাড়াই&rpar;](https://dev-blog-reader.pantheonsite.io/2024/12/19/hot-unlimited-free-call-any-nomber-%e0%a6%a8%e0%a6%bf%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%a8%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a6%b0-%e0%a6%97%e0%a7%8b%e0%a6%aa%e0%a6%a8-%e0%a6%b0%e0%a7%87%e0%a6%96/)
+- [২০২৪ সালের শেষে এসে Blogger এর জন্য জনপ্রিয় সেরা ৫টি Responsive এবং SEO Friendly থিম](https://dev-blog-reader.pantheonsite.io/2024/12/19/%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%aa-%e0%a6%b8%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%b6%e0%a7%87%e0%a6%b7%e0%a7%87-%e0%a6%8f%e0%a6%b8%e0%a7%87-blogger-%e0%a6%8f%e0%a6%b0-%e0%a6%9c%e0%a6%a8/)
+- [BYBIT এর Puzzle Hunt ইভেন্টে Puzzle মিলিয়ে জিতে নিন অসংখ্য USDT](https://dev-blog-reader.pantheonsite.io/2024/12/19/bybit-%e0%a6%8f%e0%a6%b0-puzzle-hunt-%e0%a6%87%e0%a6%ad%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%87-puzzle-%e0%a6%ae%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%9c%e0%a6%bf-2/)
+- [WordPress Theme Development – Zero to Hero : Episode 04](https://dev-blog-reader.pantheonsite.io/2024/12/18/wordpress-theme-development-zero-to-hero-episode-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
