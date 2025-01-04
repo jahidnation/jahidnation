@@ -45,11 +45,11 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [ফ্রিতে ইন্সটাগ্রাম,টেলিগ্রাম,টিকটক ভিউ নিন শুধুমাত্র একটি টেলিগ্রাম বট দিয়েই…!](https://dev-blog-reader.pantheonsite.io/2024/12/27/%e0%a6%ab%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%87%e0%a6%a8%e0%a7%8d%e0%a6%b8%e0%a6%9f%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%9f%e0%a7%87%e0%a6%b2%e0%a6%bf%e0%a6%97/)
-- [মোবাইল ফোনের আসক্তি থেকে মুক্তি পাওয়ার দারুন একটা এপ!](https://dev-blog-reader.pantheonsite.io/2024/12/27/%e0%a6%ae%e0%a7%8b%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%b2-%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%b8%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%bf-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87/)
-- [WordPress Theme Development – Zero to Hero : Episode 10](https://dev-blog-reader.pantheonsite.io/2024/12/27/wordpress-theme-development-zero-to-hero-episode-10/)
-- [ঝিরঝির লম্বা লম্বা rgb দাগের মোবাইল display ঠিক করুন এই অ্যাপ দিয়ে](https://dev-blog-reader.pantheonsite.io/2024/12/27/%e0%a6%9d%e0%a6%bf%e0%a6%b0%e0%a6%9d%e0%a6%bf%e0%a6%b0-%e0%a6%b2%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a6%be-%e0%a6%b2%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a6%be-rgb-%e0%a6%a6%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b0/)
-- [হোয়াটসঅ্যাপে নতুন এআই ফিচার: চ্যাটজিপিটির সঙ্গে গল্প করার মজা নিন](https://dev-blog-reader.pantheonsite.io/2024/12/27/%e0%a6%b9%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%9f%e0%a6%b8%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%8f%e0%a6%86%e0%a6%87-%e0%a6%ab/)
+- [InfinityFree এর Website কিভাবে Google Search এ সাবমিট করবেন?](https://dev-blog-reader.pantheonsite.io/2025/01/04/infinityfree-%e0%a6%8f%e0%a6%b0-website-%e0%a6%95%e0%a6%bf%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-google-search-%e0%a6%8f-%e0%a6%b8%e0%a6%be%e0%a6%ac%e0%a6%ae%e0%a6%bf%e0%a6%9f-%e0%a6%95%e0%a6%b0/)
+- [Oppo Reno13 এবং Reno13 Pro এর লঞ্চ এর তারিখ ইন্ডিয়ার বাজারে অফিশিয়ালি ঘোষণা | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2025/01/04/oppo-reno13-%e0%a6%8f%e0%a6%ac%e0%a6%82-reno13-pro-%e0%a6%8f%e0%a6%b0-%e0%a6%b2%e0%a6%9e%e0%a7%8d%e0%a6%9a-%e0%a6%8f%e0%a6%b0-%e0%a6%a4%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%96-%e0%a6%87%e0%a6%a8%e0%a7%8d/)
+- [আসছে স্লিম ফোনের যুগ! এই বছর স্মার্টফোন দুনিয়ার আসছে দুই বড় চমক! iPhone 17 Air এবং Samsung Galaxy S25 Slim | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2025/01/04/%e0%a6%86%e0%a6%b8%e0%a6%9b%e0%a7%87-%e0%a6%b8%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%ae-%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%af%e0%a7%81%e0%a6%97-%e0%a6%8f%e0%a6%87-%e0%a6%ac%e0%a6%9b/)
+- [Expensive স্মার্টফোনের সংখ্যা বাজারে দিন দিন কেন বেড়েই চলছে? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2025/01/03/expensive-%e0%a6%b8%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a6%ab%e0%a7%8b%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%82%e0%a6%96%e0%a7%8d%e0%a6%af%e0%a6%be-%e0%a6%ac%e0%a6%be/)
+- [প্রতিবছর iPhone লঞ্চের নাটক থেকে কি অ্যাপেল শেষ পর্যন্ত বের হয়ে আসছে? | Blog-Reader](https://dev-blog-reader.pantheonsite.io/2025/01/03/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a6%9b%e0%a6%b0-iphone-%e0%a6%b2%e0%a6%9e%e0%a7%8d%e0%a6%9a%e0%a7%87%e0%a6%b0-%e0%a6%a8%e0%a6%be%e0%a6%9f%e0%a6%95-%e0%a6%a5%e0%a7%87%e0%a6%95/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
