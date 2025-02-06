@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://blog-reader.jahid.eu.org/feed/?"
+          feed_list: "https://blog-reader.jahid.eu.org/feed/"
