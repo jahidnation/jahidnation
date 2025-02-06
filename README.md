@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://jahid.eu.org">
-    <img alt="Website" title="Website" src="https://img.shields.io/badge/Website-000000?logo=Google-Chrome&logoColor=white&style=for-the-badge"/></a>
+    <img alt="Website" title="Website" src="https://img.shields.io/website/https/jahid.eu.org.svg?label=Website&style=for-the-badge&colorB=4c1&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://youtube.com/@jahidnation">
     <img alt="YouTube" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"/></a>
   <a href="https://facebook.com/jahidnation">
