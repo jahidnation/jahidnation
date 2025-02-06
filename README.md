@@ -82,7 +82,7 @@
   <h3>Streak Stats</h3>
 
   <p>
-      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=jahidnation&theme=monokai-metallian&hide_border=true"/>
+      <img title="Streak Stats" alt=JahidNation Streak" src="https://github-readme-stats.vercel.app/api?username=jahidnation&show_icons=true&theme=monokai"/>
   </p>
 
   <h3>GitHub Profile Stats</h3>
