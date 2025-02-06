@@ -79,12 +79,6 @@
 <details open> 
   <summary><h3>Github Stats and Activity</h3></summary>
 
-  <h3>Streak Stats</h3>
-
-  <p>
-      <img title="Streak Stats" alt=JahidNation Streak" src="https://github-readme-stats.vercel.app/api?username=jahidnation&show_icons=true&theme=monokai"/>
-  </p>
-
   <h3>GitHub Profile Stats</h3>
   <p>
   <img alt="JahidNation Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jahidnation&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
