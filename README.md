@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/jahidnation">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
 </p>
----
+
 </details>
 
 <details open>
