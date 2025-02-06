@@ -13,6 +13,8 @@
   <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/jahidnation/jahidnation?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
 </p>
 <p align="center">
+      <a href="https://jahid.eu.org">
+         <img alt="Website" title="Website" src="https://img.shields.io/badge/Website-414141?logo=google-chrome&logoColor=white"/></a>
       <a href="https://youtube.com/@jahidnation">
          <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
       <a href="https://facebook.com/jahidnation">
