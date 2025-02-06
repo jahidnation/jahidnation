@@ -20,14 +20,14 @@
     <img alt="YouTube" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"/></a>
   <a href="https://facebook.com/jahidnation">
     <img alt="Facebook" title="Facebook Page" src="https://img.shields.io/badge/Facebook-4267B2?logo=Facebook&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://mail.google.com/?hl=en&tf=cm&fs=1&to=mail@jahid.eu.org">
-    <img alt="Mail" title="Mail Me" src="https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://twitter.com/jahidnation">
     <img alt="Twitter" title="Twitter Profile" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"/></a>
   <a href="https://instagram.com/jahidnation">
     <img alt="Instagram" title="Instagram Profile" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/jahidnation">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://mail.google.com/?hl=en&tf=cm&fs=1&to=mail@jahid.eu.org">
+    <img alt="Mail" title="Mail Me" src="https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 </details>
