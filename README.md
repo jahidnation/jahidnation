@@ -22,7 +22,7 @@
       <a href="mailto:mail@jahid.eu.org">
          <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23c71610.svg?logo=Gmail&logoColor=white"/></a>
       <a href="https://twitter.com/jahidnation">
-         <img alt="Twitter Account" title="Twitter Account" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
+         <img alt="X Account" title="X Account" src="https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white"/></a>
       <a href="https://instagram.com/jahidnation">
          <img alt="Instagram Account" title="Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
       <a href="https://linkedin.com/in/jahidnation">
