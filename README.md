@@ -27,7 +27,7 @@
   <a href="https://instagram.com/jahidnation">
     <img alt="Instagram" title="Instagram Profile" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/jahidnation">
-    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
+    <img alt="LinkedIn" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </p>
 
 </details>
