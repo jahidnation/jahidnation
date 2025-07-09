@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Recent Blog Posts
+    name: 📝 Latest Google News
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
