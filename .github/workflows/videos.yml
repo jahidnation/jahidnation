@@ -13,7 +13,7 @@ jobs:
           comment_tag_name: VID
           channel_id: UCuxth2BimHUigZ344JhcFPw
           lang: en
-          max_videos: 10
+          max_videos: 9
           card_width: 250
           commit_message: "Recent YouTube Videos"
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
