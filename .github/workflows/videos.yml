@@ -15,7 +15,7 @@ jobs:
           lang: en
           max_videos: 9
           card_width: 250
-          commit_message: "Recent YouTube Videos"
+          commit_message: "🎥 Latest Google Videos"
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           author_name: GitHub Actions
