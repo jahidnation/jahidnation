@@ -11,9 +11,9 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           comment_tag_name: VID
-          channel_id: UCfYV8LuAdbU0Rpr6GEg-Zew
+          channel_id: UCEgdi0XIXXZ-qJOFPf4JSKw
           lang: en
-          max_videos: 9
+          max_videos: 10
           card_width: 250
           commit_message: "Recent YouTube Videos"
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
