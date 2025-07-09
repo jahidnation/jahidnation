@@ -90,12 +90,6 @@
     <img src="https://ytcards.demolab.com/?id=gHckknL4B8U&title=%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0+%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE+%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87+%E0%A6%B6%E0%A6%BE%E0%A7%9F%E0%A6%96+%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9&lang=en&timestamp=1751635842&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="কক্সবাজার শিক্ষা সেমিনারে শায়খ আহমাদুল্লাহ" title="কক্সবাজার শিক্ষা সেমিনারে শায়খ আহমাদুল্লাহ">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=EyEGQgN72aI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EyEGQgN72aI&title=%E0%A6%8F+%E0%A6%AC%E0%A6%9B%E0%A6%B0+%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B0+%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE+%E0%A6%95%E0%A6%A4+%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96%E0%A7%87+%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4+%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%87+%E0%A6%A8%E0%A6%BF%E0%A6%A8%21&lang=en&timestamp=1751629054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=507">
-    <img src="https://ytcards.demolab.com/?id=EyEGQgN72aI&title=%E0%A6%8F+%E0%A6%AC%E0%A6%9B%E0%A6%B0+%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B0+%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE+%E0%A6%95%E0%A6%A4+%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96%E0%A7%87+%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4+%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%87+%E0%A6%A8%E0%A6%BF%E0%A6%A8%21&lang=en&timestamp=1751629054&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=507" alt="এ বছর আশুরার রোজা কত তারিখে এবং ফজিলত জেনে নিন!" title="এ বছর আশুরার রোজা কত তারিখে এবং ফজিলত জেনে নিন!">
-  </picture>
-</a>
 <!-- END VID -->
 
 ---
