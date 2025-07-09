@@ -97,7 +97,7 @@
 </details>
 
 <details open>
- <summary><h3>📝 Latest Blog Posts</h3></summary>
+ <summary><h3>📝 Latest Google News</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Binge Prime Day Away With This Rare Deal on Google TV and My Favorite Remote - AOL.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBTc1lBNFNPczdvUmRjZldEYkFCcFhObHdreV9wazdhbWVmdmtBQkpNcUpQQU1SZTZGVmtXOXg5ZUUzU1Q3RVF5dndINzZ1UjJuelp6SGhZa2lfaDRCMVRwa2tKYm5UenBKaVYwMFc0NExsZw?oc=5)
