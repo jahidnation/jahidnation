@@ -18,8 +18,8 @@ jobs:
           commit_message: "🎥 Latest Google Videos"
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-          author_name: Jahid Hasan
-          author_email: jahidnation@gmail.com
+          author_name: GitHub Actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
           base_url: https://ytcards.demolab.com/
           background_color: "#0d1117"
           title_color: "#ffffff"
