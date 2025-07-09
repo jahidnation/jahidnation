@@ -33,7 +33,7 @@
 </details>
 
 <details open>
- <summary><h3>🎥 Latest YouTube Video</h3></summary>
+ <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
 <a href="https://www.youtube.com/watch?v=h-AkoDlQ0L0">
