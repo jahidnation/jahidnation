@@ -6,11 +6,12 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: 📝 Latest Google News
+    name: Latest Blog Posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          commit_message: "📝 Latest Google News"
           max_post_count: "6"
           feed_list: "https://news.google.com/rss/search?q=google&hl=en&gl=US&ceid=US:en"
