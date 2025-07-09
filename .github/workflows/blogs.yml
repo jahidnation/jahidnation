@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Latest Blog Posts
+    name: Recent Blog Posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
