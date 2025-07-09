@@ -46,6 +46,12 @@
  <summary><h3>📝 Latest Google News</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Government brings on Google Cloud to upskill Civil Service - UKTN](https://news.google.com/rss/articles/CBMimgFBVV95cUxNakRramk1eE16Yno2a21EXzdzVUNVdVk4OVVldXVBMktrNjhTcUtwS2FQdUVsOVlnRHEzZzI3WXRuVDgxUlh5bENkdEw1djhEMUljLVFuZWliaDUzUUtBSk1mS1RWMTBDNHc5bkxTeGtqVmRGdzZUbkg2dVkyT3VFVXZmbFN0LUhxdWp5UnBsajduUWtSdlNXcTh3?oc=5)
+- [Binge Prime Day Away With This Rare Deal on Google TV and My Favorite Remote - AOL.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBTc1lBNFNPczdvUmRjZldEYkFCcFhObHdreV9wazdhbWVmdmtBQkpNcUpQQU1SZTZGVmtXOXg5ZUUzU1Q3RVF5dndINzZ1UjJuelp6SGhZa2lfaDRCMVRwa2tKYm5UenBKaVYwMFc0NExsZw?oc=5)
+- [This new setting in Android ensures core Google services are always up to date - Android Authority](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaHcycEFpOTEzVnIxQ0hmT280Ry1COTZKZGRUdHpaWHZ3anRLdTBKdzJ3MDJuZWh4UFUzamdXT09sZEVVMlNiS3J2NFlZT2xBMndFb2dUT0xjQlp1eTUwUloydk11QzlJVWdXRHlYNGZVYkJhZ0E0MUNfQnl2OE1KRi1PWFFWZmUxR3VVZmE2ZFA?oc=5)
+- [Revamped Google Photos editor is rolling out in slow motion - Android Police](https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2lqOC1iTkszRFRkMDdGUUNZV2tBYTVhMGROMVg2azFiQ3RVdUxoQmpXdVpZNF9sUFpFZ01CZHFuNE94azRfeHZJWmlHeXVkeU5jRUEweWZPelRJaEhRYUtHUDBqQjRhek56RnhuLXVmYjJNNlFlSVQ1WVo3bGpRYVN4OERTeFpZbGM3OHNFbFg?oc=5)
+- [Google is giving Android&#39;s photo picker a long-overdue overhaul - Android Central](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWF1cDRUWmVTbm5LbUVhUkNHRU9jc2xYLWx0Zl9za01hMTBfU2RHbTR0T3JsYllNSVZJY2JXU29YMnJCV2lkV0RrbnR3MmFfRVBYcTN6QkZGaTB2eDNZejZ6OXZRdkdXMFNvcWdsR1FyRkcyNVI1eVBzLWR2b3BkcWc5aHJ0a1FjVVVvMVIwVU1FSHI3MGlhbng1Um9DSDA2M3BN?oc=5)
+- [How Lush and Google Cloud AI are reinventing retail checkout - Google Blog](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXdNaDV0ajMzN3RWWWRkMVFpcUtPczVQSldoYlRkOHVSaktaN2ZTVWxqVENMbkxCTUk0U2RuLWtrQzZuT0x6RW0ySTN3VjROTVV3WTdDRUk3X3U3SWJqcS1XWTc1YWtnZ0RuUElvREtIQVUxc2FnMnl6WUtVVDBWVlF4RU5xT29EeFYxNkVGMW1SUjdRbVdfbl9nMkYtZW9jc0NCQnhjMXByMlNMb0RQdjcyZHNxd3dvLWNEZlM5cHpUUGFneUE?oc=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
