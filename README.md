@@ -36,58 +36,58 @@
  <summary><h3>🎥 Latest YouTube Video</h3></summary>
 
 <!-- BEGIN VID -->
-<a href="https://www.youtube.com/watch?v=FN3RKRmvzdg">
+<a href="https://www.youtube.com/watch?v=h-AkoDlQ0L0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FN3RKRmvzdg&title=Male+and+Female+Longevity+%26+the+Imbalance+Wrought+through+Female+Infanticide+in+India+and+China&lang=en&timestamp=1752040527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=342">
-    <img src="https://ytcards.demolab.com/?id=FN3RKRmvzdg&title=Male+and+Female+Longevity+%26+the+Imbalance+Wrought+through+Female+Infanticide+in+India+and+China&lang=en&timestamp=1752040527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=342" alt="Male and Female Longevity & the Imbalance Wrought through Female Infanticide in India and China" title="Male and Female Longevity & the Imbalance Wrought through Female Infanticide in India and China">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Trying Something New? Just Ask Google" title="Trying Something New? Just Ask Google">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=wgbY5qjdZgs">
+<a href="https://www.youtube.com/shorts/QBV2KL0Sufo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wgbY5qjdZgs&title=Salaah+-+The+Programming+towards+Righteousness&lang=en&timestamp=1751995782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13646">
-    <img src="https://ytcards.demolab.com/?id=wgbY5qjdZgs&title=Salaah+-+The+Programming+towards+Righteousness&lang=en&timestamp=1751995782&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13646" alt="Salaah - The Programming towards Righteousness" title="Salaah - The Programming towards Righteousness">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=72">
+    <img src="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=72" alt="Happy 4th of July!  🎆 Made with Veo 3 in Gemini" title="Happy 4th of July!  🎆 Made with Veo 3 in Gemini">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/kRVHITwGdKQ">
+<a href="https://www.youtube.com/shorts/BmwyQ_CddNw">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kRVHITwGdKQ&title=Those+who+cannot+Perceive+the+Truth+-+Dr+Zakir+Naik&lang=en&timestamp=1751981445&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
-    <img src="https://ytcards.demolab.com/?id=kRVHITwGdKQ&title=Those+who+cannot+Perceive+the+Truth+-+Dr+Zakir+Naik&lang=en&timestamp=1751981445&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="Those who cannot Perceive the Truth - Dr Zakir Naik" title="Those who cannot Perceive the Truth - Dr Zakir Naik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="10/10 would generate again. Sound on 🔊" title="10/10 would generate again. Sound on 🔊">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=RV6X8FSP-Gs">
+<a href="https://www.youtube.com/shorts/H_z03QE8PAU">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RV6X8FSP-Gs&title=Education+for+Both+the+Worlds&lang=en&timestamp=1751977981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4247">
-    <img src="https://ytcards.demolab.com/?id=RV6X8FSP-Gs&title=Education+for+Both+the+Worlds&lang=en&timestamp=1751977981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4247" alt="Education for Both the Worlds" title="Education for Both the Worlds">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_z03QE8PAU&title=Which+fairytale+vlog+are+you+subscribing+to%3F&lang=en&timestamp=1751045284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
+    <img src="https://ytcards.demolab.com/?id=H_z03QE8PAU&title=Which+fairytale+vlog+are+you+subscribing+to%3F&lang=en&timestamp=1751045284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Which fairytale vlog are you subscribing to?" title="Which fairytale vlog are you subscribing to?">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/1UpG0AdEIuQ">
+<a href="https://www.youtube.com/shorts/oQ4oVPSa2RQ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1UpG0AdEIuQ&title=Muhammad+%28pbuh%29+as+Mentioned+in+the+Old+Testament+-+Dr+Zakir+Naik&lang=en&timestamp=1751967002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
-    <img src="https://ytcards.demolab.com/?id=1UpG0AdEIuQ&title=Muhammad+%28pbuh%29+as+Mentioned+in+the+Old+Testament+-+Dr+Zakir+Naik&lang=en&timestamp=1751967002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="Muhammad (pbuh) as Mentioned in the Old Testament - Dr Zakir Naik" title="Muhammad (pbuh) as Mentioned in the Old Testament - Dr Zakir Naik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oQ4oVPSa2RQ&title=Use+the+Cheapest+tab+in+Google+Flights+for+your+next+trip+%E2%9C%88%EF%B8%8F&lang=en&timestamp=1750968444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
+    <img src="https://ytcards.demolab.com/?id=oQ4oVPSa2RQ&title=Use+the+Cheapest+tab+in+Google+Flights+for+your+next+trip+%E2%9C%88%EF%B8%8F&lang=en&timestamp=1750968444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="Use the Cheapest tab in Google Flights for your next trip ✈️" title="Use the Cheapest tab in Google Flights for your next trip ✈️">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=jF5vX7_sgJk">
+<a href="https://www.youtube.com/shorts/tD-V9emq6A8">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jF5vX7_sgJk&title=At+Paediatric+Age%2C+Higher+Mortality+in+Males.+Hence+Polygamy+Allowed+in+Islam+-+Dr+Zakir+Naik&lang=en&timestamp=1751952606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=323">
-    <img src="https://ytcards.demolab.com/?id=jF5vX7_sgJk&title=At+Paediatric+Age%2C+Higher+Mortality+in+Males.+Hence+Polygamy+Allowed+in+Islam+-+Dr+Zakir+Naik&lang=en&timestamp=1751952606&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=323" alt="At Paediatric Age, Higher Mortality in Males. Hence Polygamy Allowed in Islam - Dr Zakir Naik" title="At Paediatric Age, Higher Mortality in Males. Hence Polygamy Allowed in Islam - Dr Zakir Naik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tD-V9emq6A8&title=AI+Mode+is+now+available+in+the+U.S.+Find+it+in+the+Google+app+or+in+a+new+tab+in+Search&lang=en&timestamp=1750955742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23">
+    <img src="https://ytcards.demolab.com/?id=tD-V9emq6A8&title=AI+Mode+is+now+available+in+the+U.S.+Find+it+in+the+Google+app+or+in+a+new+tab+in+Search&lang=en&timestamp=1750955742&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23" alt="AI Mode is now available in the U.S. Find it in the Google app or in a new tab in Search" title="AI Mode is now available in the U.S. Find it in the Google app or in a new tab in Search">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/7JXCLfwo6yQ">
+<a href="https://www.youtube.com/watch?v=S-De1TvTw4o">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7JXCLfwo6yQ&title=Muhammad+%28pbuh%27s%29+Reply+to+the+Angel+is+Recorded+Verbatim+in+the+Bible+-+Dr+Zakir+Naik&lang=en&timestamp=1751895009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=57">
-    <img src="https://ytcards.demolab.com/?id=7JXCLfwo6yQ&title=Muhammad+%28pbuh%27s%29+Reply+to+the+Angel+is+Recorded+Verbatim+in+the+Bible+-+Dr+Zakir+Naik&lang=en&timestamp=1751895009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=57" alt="Muhammad (pbuh's) Reply to the Angel is Recorded Verbatim in the Bible - Dr Zakir Naik" title="Muhammad (pbuh's) Reply to the Angel is Recorded Verbatim in the Bible - Dr Zakir Naik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S-De1TvTw4o&title=What+is+the+Potential+of+Personalized+Learning%3F+%7C+Julia+Gillard+and+Google+DeepMind+COO+Lila+Ibrahim&lang=en&timestamp=1750884017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
+    <img src="https://ytcards.demolab.com/?id=S-De1TvTw4o&title=What+is+the+Potential+of+Personalized+Learning%3F+%7C+Julia+Gillard+and+Google+DeepMind+COO+Lila+Ibrahim&lang=en&timestamp=1750884017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="What is the Potential of Personalized Learning? | Julia Gillard and Google DeepMind COO Lila Ibrahim" title="What is the Potential of Personalized Learning? | Julia Gillard and Google DeepMind COO Lila Ibrahim">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/FX743-gjoAA">
+<a href="https://www.youtube.com/shorts/vf-HpAmogoQ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FX743-gjoAA&title=Is+It+Possible+to+have+a+Godman%3F+-+Dr+Zakir+Naik&lang=en&timestamp=1751877007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=94">
-    <img src="https://ytcards.demolab.com/?id=FX743-gjoAA&title=Is+It+Possible+to+have+a+Godman%3F+-+Dr+Zakir+Naik&lang=en&timestamp=1751877007&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=94" alt="Is It Possible to have a Godman? - Dr Zakir Naik" title="Is It Possible to have a Godman? - Dr Zakir Naik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vf-HpAmogoQ&title=%E2%80%9CIt%E2%80%99s+a+magical+moment%21%E2%80%9D+Filmmaker+Dave+Clark+shares+his+experience+using+Flow+from+Google.&lang=en&timestamp=1750796120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
+    <img src="https://ytcards.demolab.com/?id=vf-HpAmogoQ&title=%E2%80%9CIt%E2%80%99s+a+magical+moment%21%E2%80%9D+Filmmaker+Dave+Clark+shares+his+experience+using+Flow+from+Google.&lang=en&timestamp=1750796120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="“It’s a magical moment!” Filmmaker Dave Clark shares his experience using Flow from Google." title="“It’s a magical moment!” Filmmaker Dave Clark shares his experience using Flow from Google.">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=5B5oSBrQKuo">
+<a href="https://www.youtube.com/watch?v=1M6RqtYEca0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5B5oSBrQKuo&title=Hindus+More+Polygamous+despite+the+ban%3B+only+Islam+Puts+a+Limit+-+Dr+Zakir+Naik&lang=en&timestamp=1751867696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
-    <img src="https://ytcards.demolab.com/?id=5B5oSBrQKuo&title=Hindus+More+Polygamous+despite+the+ban%3B+only+Islam+Puts+a+Limit+-+Dr+Zakir+Naik&lang=en&timestamp=1751867696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Hindus More Polygamous despite the ban; only Islam Puts a Limit - Dr Zakir Naik" title="Hindus More Polygamous despite the ban; only Islam Puts a Limit - Dr Zakir Naik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1M6RqtYEca0&title=Behind+the+Lens%3A+AI+Filmmaking+with+Flow+from+Google+at+Tribeca+Film+Festival&lang=en&timestamp=1750795989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2323">
+    <img src="https://ytcards.demolab.com/?id=1M6RqtYEca0&title=Behind+the+Lens%3A+AI+Filmmaking+with+Flow+from+Google+at+Tribeca+Film+Festival&lang=en&timestamp=1750795989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2323" alt="Behind the Lens: AI Filmmaking with Flow from Google at Tribeca Film Festival" title="Behind the Lens: AI Filmmaking with Flow from Google at Tribeca Film Festival">
   </picture>
 </a>
 <!-- END VID -->
