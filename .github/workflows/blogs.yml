@@ -5,8 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Recent Blog Posts
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
