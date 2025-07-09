@@ -14,5 +14,5 @@ jobs:
           feed_list: "https://news.google.com/rss/search?q=google&hl=en&gl=US&ceid=US:en"
           max_post_count: "6"
           commit_message: "📝 Latest Google News"
-          author_name: Jahid Hasan
-          author_email: jahidnation@gmail.com
+          author_name: GitHub Actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
