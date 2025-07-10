@@ -35,60 +35,6 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
-<a href="https://www.youtube.com/watch?v=h-AkoDlQ0L0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Trying Something New? Just Ask Google" title="Trying Something New? Just Ask Google">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/QBV2KL0Sufo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=72">
-    <img src="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=72" alt="Happy 4th of July!  🎆 Made with Veo 3 in Gemini" title="Happy 4th of July!  🎆 Made with Veo 3 in Gemini">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/BmwyQ_CddNw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="10/10 would generate again. Sound on 🔊" title="10/10 would generate again. Sound on 🔊">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/H_z03QE8PAU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_z03QE8PAU&title=Which+fairytale+vlog+are+you+subscribing+to%3F&lang=en&timestamp=1751045284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
-    <img src="https://ytcards.demolab.com/?id=H_z03QE8PAU&title=Which+fairytale+vlog+are+you+subscribing+to%3F&lang=en&timestamp=1751045284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Which fairytale vlog are you subscribing to?" title="Which fairytale vlog are you subscribing to?">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/oQ4oVPSa2RQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oQ4oVPSa2RQ&title=Use+the+Cheapest+tab+in+Google+Flights+for+your+next+trip+%E2%9C%88%EF%B8%8F&lang=en&timestamp=1750968444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
-    <img src="https://ytcards.demolab.com/?id=oQ4oVPSa2RQ&title=Use+the+Cheapest+tab+in+Google+Flights+for+your+next+trip+%E2%9C%88%EF%B8%8F&lang=en&timestamp=1750968444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="Use the Cheapest tab in Google Flights for your next trip ✈️" title="Use the Cheapest tab in Google Flights for your next trip ✈️">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/tD-V9emq6A8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tD-V9emq6A8&title=AI+Mode+is+now+available+in+the+U.S.+Find+it+in+the+Google+app+or+in+a+new+tab+in+Search&lang=en&timestamp=1750955742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23">
-    <img src="https://ytcards.demolab.com/?id=tD-V9emq6A8&title=AI+Mode+is+now+available+in+the+U.S.+Find+it+in+the+Google+app+or+in+a+new+tab+in+Search&lang=en&timestamp=1750955742&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23" alt="AI Mode is now available in the U.S. Find it in the Google app or in a new tab in Search" title="AI Mode is now available in the U.S. Find it in the Google app or in a new tab in Search">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=S-De1TvTw4o">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S-De1TvTw4o&title=What+is+the+Potential+of+Personalized+Learning%3F+%7C+Julia+Gillard+and+Google+DeepMind+COO+Lila+Ibrahim&lang=en&timestamp=1750884017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
-    <img src="https://ytcards.demolab.com/?id=S-De1TvTw4o&title=What+is+the+Potential+of+Personalized+Learning%3F+%7C+Julia+Gillard+and+Google+DeepMind+COO+Lila+Ibrahim&lang=en&timestamp=1750884017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="What is the Potential of Personalized Learning? | Julia Gillard and Google DeepMind COO Lila Ibrahim" title="What is the Potential of Personalized Learning? | Julia Gillard and Google DeepMind COO Lila Ibrahim">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/vf-HpAmogoQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vf-HpAmogoQ&title=%E2%80%9CIt%E2%80%99s+a+magical+moment%21%E2%80%9D+Filmmaker+Dave+Clark+shares+his+experience+using+Flow+from+Google.&lang=en&timestamp=1750796120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
-    <img src="https://ytcards.demolab.com/?id=vf-HpAmogoQ&title=%E2%80%9CIt%E2%80%99s+a+magical+moment%21%E2%80%9D+Filmmaker+Dave+Clark+shares+his+experience+using+Flow+from+Google.&lang=en&timestamp=1750796120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="“It’s a magical moment!” Filmmaker Dave Clark shares his experience using Flow from Google." title="“It’s a magical moment!” Filmmaker Dave Clark shares his experience using Flow from Google.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=1M6RqtYEca0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1M6RqtYEca0&title=Behind+the+Lens%3A+AI+Filmmaking+with+Flow+from+Google+at+Tribeca+Film+Festival&lang=en&timestamp=1750795989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2323">
-    <img src="https://ytcards.demolab.com/?id=1M6RqtYEca0&title=Behind+the+Lens%3A+AI+Filmmaking+with+Flow+from+Google+at+Tribeca+Film+Festival&lang=en&timestamp=1750795989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2323" alt="Behind the Lens: AI Filmmaking with Flow from Google at Tribeca Film Festival" title="Behind the Lens: AI Filmmaking with Flow from Google at Tribeca Film Festival">
-  </picture>
-</a>
 <!-- END VID -->
 
 ---
@@ -99,12 +45,6 @@
  <summary><h3>📝 Latest Google News</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity rips another page from the Google playbook with its own browser, Comet - theregister.com](https://news.google.com/rss/articles/CBMickFVX3lxTE1Vb2I2bk1DaXRhdkhJb25xWlBKVUpKTU03ZFBsSWxSYVMzZVJ1V2NoZDYzTXl3ZWloUEZCQ2tVQVBuOXFsMjVRMVE0UkU3ZlpzSlNWNkZBRXZsdTJ4dWFtQlpXMktBQzJKZENpR0JEb1dad9IBd0FVX3lxTE9HQzBuaFFWTVMyWG04SjN3Tlp1Ml9PUlMxUElxNk0zTFlkUjBHZkZxc1VEWTNpOWV0cnJfa01LVzBYTU50cWJmcWRIUWx2RXlQXy1hZk5wTnlkdjlhanlTdzhHbmU1YWY0bVlyek05QTFNdTBOSngw?oc=5)
-- [OpenAI to release web browser in challenge to Google Chrome - NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxQal95ZGljLTlVbXg1QlpwMnZFaUVrY1I4SzhVTjBtM3BFbDhNT096RkxsRHF6LVRkdE1fTk9MLUpUeEJnOEZnNGNNOGdsNWpYOWFQMlRyQTRYMTFSRDJyWTlQbEpUQlhYdmRCbWNRU2lZSEpMVllvUi11WTRLdWoxM3ZXeDRuR0czM0tTanNTX09ycU1PTmxRVmJIbEt6T1FEYjF4ZlJNU2U0dmZG0gFWQVVfeXFMTi11OFpUYWdaLUpmTTNTdGNLYUQweUc0VUI2MXlPS0pvNDFwbk1zRjF4UGtIT1pUYlh4RzVMbmhSeGdfRUFtUy1fRVFIdTM3SjJCZDFXekE?oc=5)
-- [Google co-founder Sergey Brin calls U.N. ‘transparently antisemitic’ after report on tech firms and Gaza - The Washington Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGdRdGtuQWpRaG5sZ01sbFVaWlF6Sm5fb3ZJaUQ5bHhPNXhTVnVCVUZRUjctb2NjTGVtUnRucUdnaFFvUDg3cUxENWsxVmd3UDN5UkZnVHpsRGktSnMyb1BBTTV3Mkd6MWNWZ0J3Nlo0Y0xLV0NmM3hLSGY2NmJEWW1oYkVmMEN1elpSN3lvMTYwcWxteHVZ?oc=5)
-- [Samsung’s New Foldables Give the Keys to Google AI and Say, ‘Here, You Drive.’ - Gizmodo](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMS15blVBMkpDMTV5M2VKbG9MSXRDT2Z6WXZHYXNiWmNHeXBrN2ZjUUFBa1JhYnhVeVhGYmJKZF9aT1NoS2hUUGFKWFhjTHFqTFVsVEwwT0loWW5Zanc5cjg3N2RMSHgtZTlkOXRhbnFCeDRvUGFUeFF3T1NyR2J0dFN4UzRDUW5PYUhkYklWT3VFQXNuNDBPb3QtSmtmTUFnN1BZbWln?oc=5)
-- [Google launches Discord community for advertising developers - PPC Land](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFlBanR3V2F4MjQ4N3NoeTdBRXhNQjBXWnBOdzhJdFhlY3h5VngyMy1uQ28zZWY3NHZaTC1zcWx6WUtuZjFSWUJYRGVpQlY2eVBUbkdpVnZ2RDJZaVp3a2REVVRLbnVUTmhlc3Z4X3BiRGZDS3BpaFhPbDN2MmNlTVQ1b00?oc=5)
-- [Merck Bets Big on Respiratory Drug in $10 Billion Verona Pharma Deal - PYMNTS.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlVGcDZMM0hpc2VJZDdxOTliZkZ3LTZNRlhSM00tNThLc2NwdWtqYVo0a1ZwdGNYc3RaRGUtS1VmZi1fcUdVRmh1R1dXWXhqMEppR090SkhfNU10clJzREhQMlNLQTVLR3EzZTVWUUZmZzdUbkc5V2tVOVlWOHdPVWstMl9pZ0R1R0JMVk5BUm5UbGJiQ2Fic3ZJS2NQVWpManEwdFFaWWhpWXVwNllvdzhPd01Bdw?oc=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
