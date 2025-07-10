@@ -35,6 +35,42 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/dypZ3jCr8Gk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dypZ3jCr8Gk&title=A+new+Gemini+feature+just+dropped%21+Make+photos+come+alive+by+turning+them+into+videos+with+sound.&lang=en&timestamp=1752162424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
+    <img src="https://ytcards.demolab.com/?id=dypZ3jCr8Gk&title=A+new+Gemini+feature+just+dropped%21+Make+photos+come+alive+by+turning+them+into+videos+with+sound.&lang=en&timestamp=1752162424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound." title="A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=h-AkoDlQ0L0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Trying Something New? Just Ask Google" title="Trying Something New? Just Ask Google">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/QBV2KL0Sufo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=72">
+    <img src="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=72" alt="Happy 4th of July!  🎆 Made with Veo 3 in Gemini" title="Happy 4th of July!  🎆 Made with Veo 3 in Gemini">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/BmwyQ_CddNw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="10/10 would generate again. Sound on 🔊" title="10/10 would generate again. Sound on 🔊">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/H_z03QE8PAU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_z03QE8PAU&title=Which+fairytale+vlog+are+you+subscribing+to%3F&lang=en&timestamp=1751045284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
+    <img src="https://ytcards.demolab.com/?id=H_z03QE8PAU&title=Which+fairytale+vlog+are+you+subscribing+to%3F&lang=en&timestamp=1751045284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Which fairytale vlog are you subscribing to?" title="Which fairytale vlog are you subscribing to?">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/oQ4oVPSa2RQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oQ4oVPSa2RQ&title=Use+the+Cheapest+tab+in+Google+Flights+for+your+next+trip+%E2%9C%88%EF%B8%8F&lang=en&timestamp=1750968444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
+    <img src="https://ytcards.demolab.com/?id=oQ4oVPSa2RQ&title=Use+the+Cheapest+tab+in+Google+Flights+for+your+next+trip+%E2%9C%88%EF%B8%8F&lang=en&timestamp=1750968444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="Use the Cheapest tab in Google Flights for your next trip ✈️" title="Use the Cheapest tab in Google Flights for your next trip ✈️">
+  </picture>
+</a>
 <!-- END VID -->
 
 ---
