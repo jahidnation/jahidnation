@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=jahidnation&style=flat-square&color=brightgreen"/>
   <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/jahidnation/jahidnation?logo=github&label=LAST+UPDATE&color=blueviolet&style=flat-square"/>
 </p>
 
