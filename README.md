@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/pyEweyngVgo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pyEweyngVgo&title=Everything+is+alive%3F%21+Now+you+can+turn+photos+into+videos+with+sound+in+Gemini.&lang=en&timestamp=1752526906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
+    <img src="https://ytcards.demolab.com/?id=pyEweyngVgo&title=Everything+is+alive%3F%21+Now+you+can+turn+photos+into+videos+with+sound+in+Gemini.&lang=en&timestamp=1752526906&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24" alt="Everything is alive?! Now you can turn photos into videos with sound in Gemini." title="Everything is alive?! Now you can turn photos into videos with sound in Gemini.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/5m2ef79HzuA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5m2ef79HzuA&title=We+got+a+teeeeeext%21+%F0%9F%93%B2+%28and+it+says+to+search+%E2%80%9Camaya+papaya%E2%80%9D+for+a+surprise%29&lang=en&timestamp=1752334768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=72">
     <img src="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=72" alt="Happy 4th of July!  🎆 Made with Veo 3 in Gemini" title="Happy 4th of July!  🎆 Made with Veo 3 in Gemini">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/BmwyQ_CddNw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=BmwyQ_CddNw&title=10%2F10+would+generate+again.+Sound+on+%F0%9F%94%8A&lang=en&timestamp=1751311903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="10/10 would generate again. Sound on 🔊" title="10/10 would generate again. Sound on 🔊">
   </picture>
 </a>
 <!-- END VID -->
