@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=DsnIROseyfc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DsnIROseyfc&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9+%7C+American+Sign+Language&lang=en&timestamp=1752674608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=439">
+    <img src="https://ytcards.demolab.com/?id=DsnIROseyfc&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9+%7C+American+Sign+Language&lang=en&timestamp=1752674608&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=439" alt="What’s New in Google Accessibility | Episode 9 | American Sign Language" title="What’s New in Google Accessibility | Episode 9 | American Sign Language">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=aDmSvrb09EY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aDmSvrb09EY&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9&lang=en&timestamp=1752674570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=439">
+    <img src="https://ytcards.demolab.com/?id=aDmSvrb09EY&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9&lang=en&timestamp=1752674570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=439" alt="What’s New in Google Accessibility | Episode 9" title="What’s New in Google Accessibility | Episode 9">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/pyEweyngVgo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pyEweyngVgo&title=Everything+is+alive%3F%21+Now+you+can+turn+photos+into+videos+with+sound+in+Gemini.&lang=en&timestamp=1752526906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dypZ3jCr8Gk&title=A+new+Gemini+feature+just+dropped%21+Make+photos+come+alive+by+turning+them+into+videos+with+sound.&lang=en&timestamp=1752162424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
     <img src="https://ytcards.demolab.com/?id=dypZ3jCr8Gk&title=A+new+Gemini+feature+just+dropped%21+Make+photos+come+alive+by+turning+them+into+videos+with+sound.&lang=en&timestamp=1752162424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound." title="A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=h-AkoDlQ0L0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=h-AkoDlQ0L0&title=Trying+Something+New%3F+Just+Ask+Google&lang=en&timestamp=1752010335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Trying Something New? Just Ask Google" title="Trying Something New? Just Ask Google">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/QBV2KL0Sufo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=72">
-    <img src="https://ytcards.demolab.com/?id=QBV2KL0Sufo&title=Happy+4th+of+July%21++%F0%9F%8E%86+Made+with+Veo+3+in+Gemini&lang=en&timestamp=1751670161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=72" alt="Happy 4th of July!  🎆 Made with Veo 3 in Gemini" title="Happy 4th of July!  🎆 Made with Veo 3 in Gemini">
   </picture>
 </a>
 <!-- END VID -->
