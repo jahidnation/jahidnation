@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/0IMUdi7ENpE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
+    <img src="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19" alt="The sky’s the limit with Imagen 4 in the Gemini app. 🎈" title="The sky’s the limit with Imagen 4 in the Gemini app. 🎈">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=DsnIROseyfc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DsnIROseyfc&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9+%7C+American+Sign+Language&lang=en&timestamp=1752674608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=439">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IPpVEMZNC_Q&title=Bring+old+photos+to+life+with+new+photo+to+video+capabilities+in+Gemini.+Pro%2FUltra+users+only.&lang=en&timestamp=1752264279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
     <img src="https://ytcards.demolab.com/?id=IPpVEMZNC_Q&title=Bring+old+photos+to+life+with+new+photo+to+video+capabilities+in+Gemini.+Pro%2FUltra+users+only.&lang=en&timestamp=1752264279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Bring old photos to life with new photo to video capabilities in Gemini. Pro/Ultra users only." title="Bring old photos to life with new photo to video capabilities in Gemini. Pro/Ultra users only.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/dypZ3jCr8Gk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dypZ3jCr8Gk&title=A+new+Gemini+feature+just+dropped%21+Make+photos+come+alive+by+turning+them+into+videos+with+sound.&lang=en&timestamp=1752162424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
-    <img src="https://ytcards.demolab.com/?id=dypZ3jCr8Gk&title=A+new+Gemini+feature+just+dropped%21+Make+photos+come+alive+by+turning+them+into+videos+with+sound.&lang=en&timestamp=1752162424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound." title="A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound.">
   </picture>
 </a>
 <!-- END VID -->
