@@ -5,7 +5,7 @@
 <details open>
  <summary><h3>🌟 About Me</h3></summary>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+is+a+lifelong+journey.;Mistakes+are+the+seeds+of+growth.;Dream+big,+achieve+bigger!;&font=Fira%20Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Even+if+I+fail,;I+have+to+finish+what+I+started.;&font=Fira%20Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=24" />
 </p>
 
 <p align="center">
