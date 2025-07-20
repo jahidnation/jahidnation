@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/lh4UBbozYm0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lh4UBbozYm0&title=Ring+ring.+A+total+classic+from+the+%E2%80%9890s+is+calling.+Search+%22Clueless%22+like+right+now+for+a+surprise&lang=en&timestamp=1752941045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
+    <img src="https://ytcards.demolab.com/?id=lh4UBbozYm0&title=Ring+ring.+A+total+classic+from+the+%E2%80%9890s+is+calling.+Search+%22Clueless%22+like+right+now+for+a+surprise&lang=en&timestamp=1752941045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="Ring ring. A total classic from the ‘90s is calling. Search &quot;Clueless&quot; like right now for a surprise" title="Ring ring. A total classic from the ‘90s is calling. Search &quot;Clueless&quot; like right now for a surprise">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/0IMUdi7ENpE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5m2ef79HzuA&title=We+got+a+teeeeeext%21+%F0%9F%93%B2+%28and+it+says+to+search+%E2%80%9Camaya+papaya%E2%80%9D+for+a+surprise%29&lang=en&timestamp=1752334768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
     <img src="https://ytcards.demolab.com/?id=5m2ef79HzuA&title=We+got+a+teeeeeext%21+%F0%9F%93%B2+%28and+it+says+to+search+%E2%80%9Camaya+papaya%E2%80%9D+for+a+surprise%29&lang=en&timestamp=1752334768&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="We got a teeeeeext! 📲 (and it says to search “amaya papaya” for a surprise)" title="We got a teeeeeext! 📲 (and it says to search “amaya papaya” for a surprise)">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/IPpVEMZNC_Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IPpVEMZNC_Q&title=Bring+old+photos+to+life+with+new+photo+to+video+capabilities+in+Gemini.+Pro%2FUltra+users+only.&lang=en&timestamp=1752264279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
-    <img src="https://ytcards.demolab.com/?id=IPpVEMZNC_Q&title=Bring+old+photos+to+life+with+new+photo+to+video+capabilities+in+Gemini.+Pro%2FUltra+users+only.&lang=en&timestamp=1752264279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Bring old photos to life with new photo to video capabilities in Gemini. Pro/Ultra users only." title="Bring old photos to life with new photo to video capabilities in Gemini. Pro/Ultra users only.">
   </picture>
 </a>
 <!-- END VID -->
