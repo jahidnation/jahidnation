@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=OgG0dHHSH0k">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OgG0dHHSH0k&title=Looking+for+the+perfect+Superman+experience%3F+Just+Ask+Google&lang=en&timestamp=1753136739&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
+    <img src="https://ytcards.demolab.com/?id=OgG0dHHSH0k&title=Looking+for+the+perfect+Superman+experience%3F+Just+Ask+Google&lang=en&timestamp=1753136739&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Looking for the perfect Superman experience? Just Ask Google" title="Looking for the perfect Superman experience? Just Ask Google">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/G1fSod3g4Ng">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G1fSod3g4Ng&title=Legacy+in+motion.+%F0%9F%8F%8D%EF%B8%8F+Harley-Davidson+Museum+%26+%40googleartsculture+brought+photos+to+life+using+Veo&lang=en&timestamp=1753116127&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33">
+    <img src="https://ytcards.demolab.com/?id=G1fSod3g4Ng&title=Legacy+in+motion.+%F0%9F%8F%8D%EF%B8%8F+Harley-Davidson+Museum+%26+%40googleartsculture+brought+photos+to+life+using+Veo&lang=en&timestamp=1753116127&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=33" alt="Legacy in motion. 🏍️ Harley-Davidson Museum & @googleartsculture brought photos to life using Veo" title="Legacy in motion. 🏍️ Harley-Davidson Museum & @googleartsculture brought photos to life using Veo">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/lh4UBbozYm0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lh4UBbozYm0&title=Ring+ring.+A+total+classic+from+the+%E2%80%9890s+is+calling.+Search+%22Clueless%22+like+right+now+for+a+surprise&lang=en&timestamp=1752941045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aDmSvrb09EY&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9&lang=en&timestamp=1752674570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=439">
     <img src="https://ytcards.demolab.com/?id=aDmSvrb09EY&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9&lang=en&timestamp=1752674570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=439" alt="What’s New in Google Accessibility | Episode 9" title="What’s New in Google Accessibility | Episode 9">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/pyEweyngVgo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pyEweyngVgo&title=Everything+is+alive%3F%21+Now+you+can+turn+photos+into+videos+with+sound+in+Gemini.&lang=en&timestamp=1752526906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
-    <img src="https://ytcards.demolab.com/?id=pyEweyngVgo&title=Everything+is+alive%3F%21+Now+you+can+turn+photos+into+videos+with+sound+in+Gemini.&lang=en&timestamp=1752526906&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24" alt="Everything is alive?! Now you can turn photos into videos with sound in Gemini." title="Everything is alive?! Now you can turn photos into videos with sound in Gemini.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/5m2ef79HzuA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5m2ef79HzuA&title=We+got+a+teeeeeext%21+%F0%9F%93%B2+%28and+it+says+to+search+%E2%80%9Camaya+papaya%E2%80%9D+for+a+surprise%29&lang=en&timestamp=1752334768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
-    <img src="https://ytcards.demolab.com/?id=5m2ef79HzuA&title=We+got+a+teeeeeext%21+%F0%9F%93%B2+%28and+it+says+to+search+%E2%80%9Camaya+papaya%E2%80%9D+for+a+surprise%29&lang=en&timestamp=1752334768&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="We got a teeeeeext! 📲 (and it says to search “amaya papaya” for a surprise)" title="We got a teeeeeext! 📲 (and it says to search “amaya papaya” for a surprise)">
   </picture>
 </a>
 <!-- END VID -->
