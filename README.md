@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=KqaKDhwTW1Q">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KqaKDhwTW1Q&title=Turn+your+photos+into+videos+using+Veo+3+in+Gemini&lang=en&timestamp=1753222648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
+    <img src="https://ytcards.demolab.com/?id=KqaKDhwTW1Q&title=Turn+your+photos+into+videos+using+Veo+3+in+Gemini&lang=en&timestamp=1753222648&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Turn your photos into videos using Veo 3 in Gemini" title="Turn your photos into videos using Veo 3 in Gemini">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/BfR4XCM0xNE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BfR4XCM0xNE&title=A+bull.+A+china+shop.+A+Veo+3+in+Google+Gemini+tutorial.+Let%E2%80%99s+see+how+this+goes.&lang=en&timestamp=1753214217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
+    <img src="https://ytcards.demolab.com/?id=BfR4XCM0xNE&title=A+bull.+A+china+shop.+A+Veo+3+in+Google+Gemini+tutorial.+Let%E2%80%99s+see+how+this+goes.&lang=en&timestamp=1753214217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="A bull. A china shop. A Veo 3 in Google Gemini tutorial. Let’s see how this goes." title="A bull. A china shop. A Veo 3 in Google Gemini tutorial. Let’s see how this goes.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=OgG0dHHSH0k">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OgG0dHHSH0k&title=Looking+for+the+perfect+Superman+experience%3F+Just+Ask+Google&lang=en&timestamp=1753136739&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
     <img src="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19" alt="The sky’s the limit with Imagen 4 in the Gemini app. 🎈" title="The sky’s the limit with Imagen 4 in the Gemini app. 🎈">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=DsnIROseyfc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DsnIROseyfc&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9+%7C+American+Sign+Language&lang=en&timestamp=1752674608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=439">
-    <img src="https://ytcards.demolab.com/?id=DsnIROseyfc&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9+%7C+American+Sign+Language&lang=en&timestamp=1752674608&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=439" alt="What’s New in Google Accessibility | Episode 9 | American Sign Language" title="What’s New in Google Accessibility | Episode 9 | American Sign Language">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=aDmSvrb09EY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aDmSvrb09EY&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9&lang=en&timestamp=1752674570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=439">
-    <img src="https://ytcards.demolab.com/?id=aDmSvrb09EY&title=What%E2%80%99s+New+in+Google+Accessibility+%7C+Episode+9&lang=en&timestamp=1752674570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=439" alt="What’s New in Google Accessibility | Episode 9" title="What’s New in Google Accessibility | Episode 9">
   </picture>
 </a>
 <!-- END VID -->
