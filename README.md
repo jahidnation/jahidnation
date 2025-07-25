@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/fBMMev7_VUM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fBMMev7_VUM&title=Find+what+you+love+and+try+it+on+with+Google.+See+how+clothes+and+trends+look+on+you+before+you+buy.&lang=en&timestamp=1753374942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29">
+    <img src="https://ytcards.demolab.com/?id=fBMMev7_VUM&title=Find+what+you+love+and+try+it+on+with+Google.+See+how+clothes+and+trends+look+on+you+before+you+buy.&lang=en&timestamp=1753374942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29" alt="Find what you love and try it on with Google. See how clothes and trends look on you before you buy." title="Find what you love and try it on with Google. See how clothes and trends look on you before you buy.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=KqaKDhwTW1Q">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KqaKDhwTW1Q&title=Turn+your+photos+into+videos+using+Veo+3+in+Gemini&lang=en&timestamp=1753222648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lh4UBbozYm0&title=Ring+ring.+A+total+classic+from+the+%E2%80%9890s+is+calling.+Search+%22Clueless%22+like+right+now+for+a+surprise&lang=en&timestamp=1752941045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
     <img src="https://ytcards.demolab.com/?id=lh4UBbozYm0&title=Ring+ring.+A+total+classic+from+the+%E2%80%9890s+is+calling.+Search+%22Clueless%22+like+right+now+for+a+surprise&lang=en&timestamp=1752941045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="Ring ring. A total classic from the ‘90s is calling. Search &quot;Clueless&quot; like right now for a surprise" title="Ring ring. A total classic from the ‘90s is calling. Search &quot;Clueless&quot; like right now for a surprise">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/0IMUdi7ENpE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
-    <img src="https://ytcards.demolab.com/?id=0IMUdi7ENpE&title=The+sky%E2%80%99s+the+limit+with+Imagen+4+in+the+Gemini+app.+%F0%9F%8E%88&lang=en&timestamp=1752864351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19" alt="The sky’s the limit with Imagen 4 in the Gemini app. 🎈" title="The sky’s the limit with Imagen 4 in the Gemini app. 🎈">
   </picture>
 </a>
 <!-- END VID -->
