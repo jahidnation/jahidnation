@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/7WMaGQUU0aQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7WMaGQUU0aQ&title=Finding+the+perfect+outfit%3F+That%E2%80%99s+our+thing%E2%80%93+ask+%40alixearle.+Try+clothes+on+virtually+with+Google&lang=en&timestamp=1753741592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58">
+    <img src="https://ytcards.demolab.com/?id=7WMaGQUU0aQ&title=Finding+the+perfect+outfit%3F+That%E2%80%99s+our+thing%E2%80%93+ask+%40alixearle.+Try+clothes+on+virtually+with+Google&lang=en&timestamp=1753741592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=58" alt="Finding the perfect outfit? That’s our thing– ask @alixearle. Try clothes on virtually with Google" title="Finding the perfect outfit? That’s our thing– ask @alixearle. Try clothes on virtually with Google">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/6ZHPQk9J3z8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6ZHPQk9J3z8&title=POV%3A+your+top+animal+requests%2C+brought+to+life+with+Veo+3+in+Google+Gemini+%F0%9F%90%88%F0%9F%90%98%F0%9F%90%B8%F0%9F%A6%96%F0%9F%90%92%F0%9F%A6%81&lang=en&timestamp=1753731503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
+    <img src="https://ytcards.demolab.com/?id=6ZHPQk9J3z8&title=POV%3A+your+top+animal+requests%2C+brought+to+life+with+Veo+3+in+Google+Gemini+%F0%9F%90%88%F0%9F%90%98%F0%9F%90%B8%F0%9F%A6%96%F0%9F%90%92%F0%9F%A6%81&lang=en&timestamp=1753731503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="POV: your top animal requests, brought to life with Veo 3 in Google Gemini 🐈🐘🐸🦖🐒🦁" title="POV: your top animal requests, brought to life with Veo 3 in Google Gemini 🐈🐘🐸🦖🐒🦁">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/RGiVGwCGDa0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RGiVGwCGDa0&title=Pick+the+perfect+pairing.+Gemini+Live+can+look+at+the+menu+%26+make+a+suggestion+based+on+your+taste.&lang=en&timestamp=1753464860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BfR4XCM0xNE&title=A+bull.+A+china+shop.+A+Veo+3+in+Google+Gemini+tutorial.+Let%E2%80%99s+see+how+this+goes.&lang=en&timestamp=1753214217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
     <img src="https://ytcards.demolab.com/?id=BfR4XCM0xNE&title=A+bull.+A+china+shop.+A+Veo+3+in+Google+Gemini+tutorial.+Let%E2%80%99s+see+how+this+goes.&lang=en&timestamp=1753214217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="A bull. A china shop. A Veo 3 in Google Gemini tutorial. Let’s see how this goes." title="A bull. A china shop. A Veo 3 in Google Gemini tutorial. Let’s see how this goes.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=OgG0dHHSH0k">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OgG0dHHSH0k&title=Looking+for+the+perfect+Superman+experience%3F+Just+Ask+Google&lang=en&timestamp=1753136739&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
-    <img src="https://ytcards.demolab.com/?id=OgG0dHHSH0k&title=Looking+for+the+perfect+Superman+experience%3F+Just+Ask+Google&lang=en&timestamp=1753136739&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Looking for the perfect Superman experience? Just Ask Google" title="Looking for the perfect Superman experience? Just Ask Google">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/G1fSod3g4Ng">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G1fSod3g4Ng&title=Legacy+in+motion.+%F0%9F%8F%8D%EF%B8%8F+Harley-Davidson+Museum+%26+%40googleartsculture+brought+photos+to+life+using+Veo&lang=en&timestamp=1753116127&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33">
-    <img src="https://ytcards.demolab.com/?id=G1fSod3g4Ng&title=Legacy+in+motion.+%F0%9F%8F%8D%EF%B8%8F+Harley-Davidson+Museum+%26+%40googleartsculture+brought+photos+to+life+using+Veo&lang=en&timestamp=1753116127&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=33" alt="Legacy in motion. 🏍️ Harley-Davidson Museum & @googleartsculture brought photos to life using Veo" title="Legacy in motion. 🏍️ Harley-Davidson Museum & @googleartsculture brought photos to life using Veo">
   </picture>
 </a>
 <!-- END VID -->
