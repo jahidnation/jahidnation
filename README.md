@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/ginZ07cydX8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ginZ07cydX8&title=We+sent+this+vampire+on+a+little+field+trip+with+Veo+3+in+Google+Gemini.+Where+should+he+go+next%3F+%E2%9C%A8%F0%9F%A7%9B&lang=en&timestamp=1753810098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=ginZ07cydX8&title=We+sent+this+vampire+on+a+little+field+trip+with+Veo+3+in+Google+Gemini.+Where+should+he+go+next%3F+%E2%9C%A8%F0%9F%A7%9B&lang=en&timestamp=1753810098&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="We sent this vampire on a little field trip with Veo 3 in Google Gemini. Where should he go next? ✨🧛" title="We sent this vampire on a little field trip with Veo 3 in Google Gemini. Where should he go next? ✨🧛">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=KA_pExdDSUo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KA_pExdDSUo&title=Just+Dropped%3A+Video+Overviews+from+NotebookLM&lang=en&timestamp=1753806590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
+    <img src="https://ytcards.demolab.com/?id=KA_pExdDSUo&title=Just+Dropped%3A+Video+Overviews+from+NotebookLM&lang=en&timestamp=1753806590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="Just Dropped: Video Overviews from NotebookLM" title="Just Dropped: Video Overviews from NotebookLM">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/7WMaGQUU0aQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7WMaGQUU0aQ&title=Finding+the+perfect+outfit%3F+That%E2%80%99s+our+thing%E2%80%93+ask+%40alixearle.+Try+clothes+on+virtually+with+Google&lang=en&timestamp=1753741592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fBMMev7_VUM&title=Find+what+you+love+and+try+it+on+with+Google.+See+how+clothes+and+trends+look+on+you+before+you+buy.&lang=en&timestamp=1753374942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29">
     <img src="https://ytcards.demolab.com/?id=fBMMev7_VUM&title=Find+what+you+love+and+try+it+on+with+Google.+See+how+clothes+and+trends+look+on+you+before+you+buy.&lang=en&timestamp=1753374942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29" alt="Find what you love and try it on with Google. See how clothes and trends look on you before you buy." title="Find what you love and try it on with Google. See how clothes and trends look on you before you buy.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=KqaKDhwTW1Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KqaKDhwTW1Q&title=Turn+your+photos+into+videos+using+Veo+3+in+Gemini&lang=en&timestamp=1753222648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
-    <img src="https://ytcards.demolab.com/?id=KqaKDhwTW1Q&title=Turn+your+photos+into+videos+using+Veo+3+in+Gemini&lang=en&timestamp=1753222648&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Turn your photos into videos using Veo 3 in Gemini" title="Turn your photos into videos using Veo 3 in Gemini">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/BfR4XCM0xNE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BfR4XCM0xNE&title=A+bull.+A+china+shop.+A+Veo+3+in+Google+Gemini+tutorial.+Let%E2%80%99s+see+how+this+goes.&lang=en&timestamp=1753214217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
-    <img src="https://ytcards.demolab.com/?id=BfR4XCM0xNE&title=A+bull.+A+china+shop.+A+Veo+3+in+Google+Gemini+tutorial.+Let%E2%80%99s+see+how+this+goes.&lang=en&timestamp=1753214217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="A bull. A china shop. A Veo 3 in Google Gemini tutorial. Let’s see how this goes." title="A bull. A china shop. A Veo 3 in Google Gemini tutorial. Let’s see how this goes.">
   </picture>
 </a>
 <!-- END VID -->
