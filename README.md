@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=_isRJlUZU3g">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Note-worthy+AI%3A+Unpacking+NotebookLM+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1688">
+    <img src="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Note-worthy+AI%3A+Unpacking+NotebookLM+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1688" alt="Note-worthy AI: Unpacking NotebookLM | Made by Google Podcast S7E6" title="Note-worthy AI: Unpacking NotebookLM | Made by Google Podcast S7E6">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/-zaSyo7ZYFc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zaSyo7ZYFc&title=Teach+your+old+pics+new+tricks+%E2%9C%A8With+%23Veo3+in+Gemini%2C+we+turned+a+photo+of+this+good+boy+into+videos&lang=en&timestamp=1753898585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6ZHPQk9J3z8&title=POV%3A+your+top+animal+requests%2C+brought+to+life+with+Veo+3+in+Google+Gemini+%F0%9F%90%88%F0%9F%90%98%F0%9F%90%B8%F0%9F%A6%96%F0%9F%90%92%F0%9F%A6%81&lang=en&timestamp=1753731503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
     <img src="https://ytcards.demolab.com/?id=6ZHPQk9J3z8&title=POV%3A+your+top+animal+requests%2C+brought+to+life+with+Veo+3+in+Google+Gemini+%F0%9F%90%88%F0%9F%90%98%F0%9F%90%B8%F0%9F%A6%96%F0%9F%90%92%F0%9F%A6%81&lang=en&timestamp=1753731503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="POV: your top animal requests, brought to life with Veo 3 in Google Gemini 🐈🐘🐸🦖🐒🦁" title="POV: your top animal requests, brought to life with Veo 3 in Google Gemini 🐈🐘🐸🦖🐒🦁">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/RGiVGwCGDa0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RGiVGwCGDa0&title=Pick+the+perfect+pairing.+Gemini+Live+can+look+at+the+menu+%26+make+a+suggestion+based+on+your+taste.&lang=en&timestamp=1753464860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
-    <img src="https://ytcards.demolab.com/?id=RGiVGwCGDa0&title=Pick+the+perfect+pairing.+Gemini+Live+can+look+at+the+menu+%26+make+a+suggestion+based+on+your+taste.&lang=en&timestamp=1753464860&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Pick the perfect pairing. Gemini Live can look at the menu & make a suggestion based on your taste." title="Pick the perfect pairing. Gemini Live can look at the menu & make a suggestion based on your taste.">
   </picture>
 </a>
 <!-- END VID -->
