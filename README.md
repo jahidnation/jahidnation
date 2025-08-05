@@ -121,6 +121,4 @@
 
 ---
 
-<p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
-</p>
+
