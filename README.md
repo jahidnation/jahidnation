@@ -35,10 +35,28 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=V4XSmrpW8f4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4XSmrpW8f4&title=Off+To+College%3F+Just+Ask+Google&lang=en&timestamp=1754517639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=V4XSmrpW8f4&title=Off+To+College%3F+Just+Ask+Google&lang=en&timestamp=1754517639&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Off To College? Just Ask Google" title="Off To College? Just Ask Google">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/SWjltLnChZw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWjltLnChZw&title=Surprise%21+%E2%9C%A8+Students+get+the+Gemini+FREE+Pro+Plan+for+1+yr.+Learn+more%3A+goo.gle%2Ffreepro.+Terms+apply&lang=en&timestamp=1754513916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5">
+    <img src="https://ytcards.demolab.com/?id=SWjltLnChZw&title=Surprise%21+%E2%9C%A8+Students+get+the+Gemini+FREE+Pro+Plan+for+1+yr.+Learn+more%3A+goo.gle%2Ffreepro.+Terms+apply&lang=en&timestamp=1754513916&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5" alt="Surprise! ✨ Students get the Gemini FREE Pro Plan for 1 yr. Learn more: goo.gle/freepro. Terms apply" title="Surprise! ✨ Students get the Gemini FREE Pro Plan for 1 yr. Learn more: goo.gle/freepro. Terms apply">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/wIdPsYVGjfE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wIdPsYVGjfE&title=Students+get+a+FREE+1-year+Pro+plan%3A+Gemini+2.5+Pro%2C+2TB+storage+%26+more.+Terms+apply.&lang=en&timestamp=1754502372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
+    <img src="https://ytcards.demolab.com/?id=wIdPsYVGjfE&title=Students+get+a+FREE+1-year+Pro+plan%3A+Gemini+2.5+Pro%2C+2TB+storage+%26+more.+Terms+apply.&lang=en&timestamp=1754502372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage & more. Terms apply." title="Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage & more. Terms apply.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=_isRJlUZU3g">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Note-worthy+AI%3A+Unpacking+NotebookLM+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1688">
-    <img src="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Note-worthy+AI%3A+Unpacking+NotebookLM+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1688" alt="Note-worthy AI: Unpacking NotebookLM | Made by Google Podcast S7E6" title="Note-worthy AI: Unpacking NotebookLM | Made by Google Podcast S7E6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Unlocking+NotebookLM%3A+Your+Essential+AI+Guide+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1688">
+    <img src="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Unlocking+NotebookLM%3A+Your+Essential+AI+Guide+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1688" alt="Unlocking NotebookLM: Your Essential AI Guide | Made by Google Podcast S7E6" title="Unlocking NotebookLM: Your Essential AI Guide | Made by Google Podcast S7E6">
   </picture>
 </a>
 <a href="https://www.youtube.com/shorts/-zaSyo7ZYFc">
@@ -51,24 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ginZ07cydX8&title=We+sent+this+vampire+on+a+little+field+trip+with+Veo+3+in+Google+Gemini.+Where+should+he+go+next%3F+%E2%9C%A8%F0%9F%A7%9B&lang=en&timestamp=1753810098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
     <img src="https://ytcards.demolab.com/?id=ginZ07cydX8&title=We+sent+this+vampire+on+a+little+field+trip+with+Veo+3+in+Google+Gemini.+Where+should+he+go+next%3F+%E2%9C%A8%F0%9F%A7%9B&lang=en&timestamp=1753810098&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="We sent this vampire on a little field trip with Veo 3 in Google Gemini. Where should he go next? ✨🧛" title="We sent this vampire on a little field trip with Veo 3 in Google Gemini. Where should he go next? ✨🧛">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=KA_pExdDSUo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KA_pExdDSUo&title=Introducing+NotebookLM+Video+Overviews&lang=en&timestamp=1753806590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
-    <img src="https://ytcards.demolab.com/?id=KA_pExdDSUo&title=Introducing+NotebookLM+Video+Overviews&lang=en&timestamp=1753806590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="Introducing NotebookLM Video Overviews" title="Introducing NotebookLM Video Overviews">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/7WMaGQUU0aQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7WMaGQUU0aQ&title=Finding+the+perfect+outfit%3F+That%E2%80%99s+our+thing%E2%80%93+ask+%40alixearle.+Try+clothes+on+virtually+with+Google&lang=en&timestamp=1753741592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58">
-    <img src="https://ytcards.demolab.com/?id=7WMaGQUU0aQ&title=Finding+the+perfect+outfit%3F+That%E2%80%99s+our+thing%E2%80%93+ask+%40alixearle.+Try+clothes+on+virtually+with+Google&lang=en&timestamp=1753741592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=58" alt="Finding the perfect outfit? That’s our thing– ask @alixearle. Try clothes on virtually with Google" title="Finding the perfect outfit? That’s our thing– ask @alixearle. Try clothes on virtually with Google">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/6ZHPQk9J3z8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6ZHPQk9J3z8&title=POV%3A+your+top+animal+requests%2C+brought+to+life+with+Veo+3+in+Google+Gemini+%F0%9F%90%88%F0%9F%90%98%F0%9F%90%B8%F0%9F%A6%96%F0%9F%90%92%F0%9F%A6%81&lang=en&timestamp=1753731503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
-    <img src="https://ytcards.demolab.com/?id=6ZHPQk9J3z8&title=POV%3A+your+top+animal+requests%2C+brought+to+life+with+Veo+3+in+Google+Gemini+%F0%9F%90%88%F0%9F%90%98%F0%9F%90%B8%F0%9F%A6%96%F0%9F%90%92%F0%9F%A6%81&lang=en&timestamp=1753731503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="POV: your top animal requests, brought to life with Veo 3 in Google Gemini 🐈🐘🐸🦖🐒🦁" title="POV: your top animal requests, brought to life with Veo 3 in Google Gemini 🐈🐘🐸🦖🐒🦁">
   </picture>
 </a>
 <!-- END VID -->
