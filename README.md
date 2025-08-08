@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/zIm_8jzJzmw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zIm_8jzJzmw&title=Get+a+bird%E2%80%99s+eye+view+of+how+scientists+use+Google%E2%80%99s+Perch+model+to+help+save+endangered+birds.&lang=en&timestamp=1754578865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+    <img src="https://ytcards.demolab.com/?id=zIm_8jzJzmw&title=Get+a+bird%E2%80%99s+eye+view+of+how+scientists+use+Google%E2%80%99s+Perch+model+to+help+save+endangered+birds.&lang=en&timestamp=1754578865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Get a bird’s eye view of how scientists use Google’s Perch model to help save endangered birds." title="Get a bird’s eye view of how scientists use Google’s Perch model to help save endangered birds.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=V4XSmrpW8f4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4XSmrpW8f4&title=Off+To+College%3F+Just+Ask+Google&lang=en&timestamp=1754517639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zaSyo7ZYFc&title=Teach+your+old+pics+new+tricks+%E2%9C%A8With+%23Veo3+in+Gemini%2C+we+turned+a+photo+of+this+good+boy+into+videos&lang=en&timestamp=1753898585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
     <img src="https://ytcards.demolab.com/?id=-zaSyo7ZYFc&title=Teach+your+old+pics+new+tricks+%E2%9C%A8With+%23Veo3+in+Gemini%2C+we+turned+a+photo+of+this+good+boy+into+videos&lang=en&timestamp=1753898585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Teach your old pics new tricks ✨With #Veo3 in Gemini, we turned a photo of this good boy into videos" title="Teach your old pics new tricks ✨With #Veo3 in Gemini, we turned a photo of this good boy into videos">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/ginZ07cydX8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ginZ07cydX8&title=We+sent+this+vampire+on+a+little+field+trip+with+Veo+3+in+Google+Gemini.+Where+should+he+go+next%3F+%E2%9C%A8%F0%9F%A7%9B&lang=en&timestamp=1753810098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=ginZ07cydX8&title=We+sent+this+vampire+on+a+little+field+trip+with+Veo+3+in+Google+Gemini.+Where+should+he+go+next%3F+%E2%9C%A8%F0%9F%A7%9B&lang=en&timestamp=1753810098&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="We sent this vampire on a little field trip with Veo 3 in Google Gemini. Where should he go next? ✨🧛" title="We sent this vampire on a little field trip with Veo 3 in Google Gemini. Where should he go next? ✨🧛">
   </picture>
 </a>
 <!-- END VID -->
