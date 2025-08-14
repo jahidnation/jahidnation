@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/pgci508sap8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pgci508sap8&title=Dine+like+a+local+with+a+little+help+from+Circle+to+Search.+Just+hold+the+navigation+bar+%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3&lang=en&timestamp=1755119928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=pgci508sap8&title=Dine+like+a+local+with+a+little+help+from+Circle+to+Search.+Just+hold+the+navigation+bar+%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3&lang=en&timestamp=1755119928&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Dine like a local with a little help from Circle to Search. Just hold the navigation bar 🧑‍🍳" title="Dine like a local with a little help from Circle to Search. Just hold the navigation bar 🧑‍🍳">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/zIm_8jzJzmw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zIm_8jzJzmw&title=Get+a+bird%E2%80%99s+eye+view+of+how+scientists+use+Google%E2%80%99s+Perch+model+to+help+save+endangered+birds.&lang=en&timestamp=1754578865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Unlocking+NotebookLM%3A+Your+Essential+AI+Guide+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1688">
     <img src="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Unlocking+NotebookLM%3A+Your+Essential+AI+Guide+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1688" alt="Unlocking NotebookLM: Your Essential AI Guide | Made by Google Podcast S7E6" title="Unlocking NotebookLM: Your Essential AI Guide | Made by Google Podcast S7E6">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/-zaSyo7ZYFc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zaSyo7ZYFc&title=Teach+your+old+pics+new+tricks+%E2%9C%A8With+%23Veo3+in+Gemini%2C+we+turned+a+photo+of+this+good+boy+into+videos&lang=en&timestamp=1753898585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
-    <img src="https://ytcards.demolab.com/?id=-zaSyo7ZYFc&title=Teach+your+old+pics+new+tricks+%E2%9C%A8With+%23Veo3+in+Gemini%2C+we+turned+a+photo+of+this+good+boy+into+videos&lang=en&timestamp=1753898585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Teach your old pics new tricks ✨With #Veo3 in Gemini, we turned a photo of this good boy into videos" title="Teach your old pics new tricks ✨With #Veo3 in Gemini, we turned a photo of this good boy into videos">
   </picture>
 </a>
 <!-- END VID -->
