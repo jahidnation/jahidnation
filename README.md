@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/G3NwQuXgF54">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G3NwQuXgF54&title=Go+from+simple+doodle+to+slick+code+with+Canvas+in+Gemini&lang=en&timestamp=1755633656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27">
+    <img src="https://ytcards.demolab.com/?id=G3NwQuXgF54&title=Go+from+simple+doodle+to+slick+code+with+Canvas+in+Gemini&lang=en&timestamp=1755633656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=27" alt="Go from simple doodle to slick code with Canvas in Gemini" title="Go from simple doodle to slick code with Canvas in Gemini">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/pgci508sap8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pgci508sap8&title=Dine+like+a+local+with+a+little+help+from+Circle+to+Search.+Just+hold+the+navigation+bar+%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3&lang=en&timestamp=1755119928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wIdPsYVGjfE&title=Students+get+a+FREE+1-year+Pro+plan%3A+Gemini+2.5+Pro%2C+2TB+storage+%26+more.+Terms+apply.&lang=en&timestamp=1754502372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
     <img src="https://ytcards.demolab.com/?id=wIdPsYVGjfE&title=Students+get+a+FREE+1-year+Pro+plan%3A+Gemini+2.5+Pro%2C+2TB+storage+%26+more.+Terms+apply.&lang=en&timestamp=1754502372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage & more. Terms apply." title="Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage & more. Terms apply.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=_isRJlUZU3g">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Unlocking+NotebookLM%3A+Your+Essential+AI+Guide+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1688">
-    <img src="https://ytcards.demolab.com/?id=_isRJlUZU3g&title=Unlocking+NotebookLM%3A+Your+Essential+AI+Guide+%7C+Made+by+Google+Podcast+S7E6&lang=en&timestamp=1753990712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1688" alt="Unlocking NotebookLM: Your Essential AI Guide | Made by Google Podcast S7E6" title="Unlocking NotebookLM: Your Essential AI Guide | Made by Google Podcast S7E6">
   </picture>
 </a>
 <!-- END VID -->
