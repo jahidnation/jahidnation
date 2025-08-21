@@ -35,40 +35,40 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
-<a href="https://www.youtube.com/shorts/G3NwQuXgF54">
+<a href="https://www.youtube.com/watch?v=ddKaRQRVer4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G3NwQuXgF54&title=Go+from+simple+doodle+to+slick+code+with+Canvas+in+Gemini&lang=en&timestamp=1755633656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27">
-    <img src="https://ytcards.demolab.com/?id=G3NwQuXgF54&title=Go+from+simple+doodle+to+slick+code+with+Canvas+in+Gemini&lang=en&timestamp=1755633656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=27" alt="Go from simple doodle to slick code with Canvas in Gemini" title="Go from simple doodle to slick code with Canvas in Gemini">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ddKaRQRVer4&title=Unpacking+a+Decade+of+Pixel%3A+The+OG+Story+%7C+Made+by+Google+Podcast+S8E1&lang=en&timestamp=1755727307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1441">
+    <img src="https://ytcards.demolab.com/?id=ddKaRQRVer4&title=Unpacking+a+Decade+of+Pixel%3A+The+OG+Story+%7C+Made+by+Google+Podcast+S8E1&lang=en&timestamp=1755727307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1441" alt="Unpacking a Decade of Pixel: The OG Story | Made by Google Podcast S8E1" title="Unpacking a Decade of Pixel: The OG Story | Made by Google Podcast S8E1">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/pgci508sap8">
+<a href="https://www.youtube.com/shorts/S1pCFRyGCdY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pgci508sap8&title=Dine+like+a+local+with+a+little+help+from+Circle+to+Search.+Just+hold+the+navigation+bar+%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3&lang=en&timestamp=1755119928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=pgci508sap8&title=Dine+like+a+local+with+a+little+help+from+Circle+to+Search.+Just+hold+the+navigation+bar+%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3&lang=en&timestamp=1755119928&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Dine like a local with a little help from Circle to Search. Just hold the navigation bar 🧑‍🍳" title="Dine like a local with a little help from Circle to Search. Just hold the navigation bar 🧑‍🍳">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S1pCFRyGCdY&title=Just+dropped+today%21+The+Google+Pixel+Buds+2a+are+here&lang=en&timestamp=1755718687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14">
+    <img src="https://ytcards.demolab.com/?id=S1pCFRyGCdY&title=Just+dropped+today%21+The+Google+Pixel+Buds+2a+are+here&lang=en&timestamp=1755718687&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14" alt="Just dropped today! The Google Pixel Buds 2a are here" title="Just dropped today! The Google Pixel Buds 2a are here">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/zIm_8jzJzmw">
+<a href="https://www.youtube.com/shorts/_5lxm9DUGTg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zIm_8jzJzmw&title=Get+a+bird%E2%80%99s+eye+view+of+how+scientists+use+Google%E2%80%99s+Perch+model+to+help+save+endangered+birds.&lang=en&timestamp=1754578865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-    <img src="https://ytcards.demolab.com/?id=zIm_8jzJzmw&title=Get+a+bird%E2%80%99s+eye+view+of+how+scientists+use+Google%E2%80%99s+Perch+model+to+help+save+endangered+birds.&lang=en&timestamp=1754578865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Get a bird’s eye view of how scientists use Google’s Perch model to help save endangered birds." title="Get a bird’s eye view of how scientists use Google’s Perch model to help save endangered birds.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_5lxm9DUGTg&title=It%27s+here%21+%E2%9C%A8+Meet+the+new+Google+Pixel+Watch+4&lang=en&timestamp=1755714824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=72">
+    <img src="https://ytcards.demolab.com/?id=_5lxm9DUGTg&title=It%27s+here%21+%E2%9C%A8+Meet+the+new+Google+Pixel+Watch+4&lang=en&timestamp=1755714824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=72" alt="It's here! ✨ Meet the new Google Pixel Watch 4" title="It's here! ✨ Meet the new Google Pixel Watch 4">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=V4XSmrpW8f4">
+<a href="https://www.youtube.com/watch?v=06b4UeDcQbE">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4XSmrpW8f4&title=Off+To+College%3F+Just+Ask+Google&lang=en&timestamp=1754517639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=V4XSmrpW8f4&title=Off+To+College%3F+Just+Ask+Google&lang=en&timestamp=1754517639&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Off To College? Just Ask Google" title="Off To College? Just Ask Google">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=06b4UeDcQbE&title=Live+from+NYC%2C+It%E2%80%99s+Made+by+Google+%E2%80%9825&lang=en&timestamp=1755714155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4615">
+    <img src="https://ytcards.demolab.com/?id=06b4UeDcQbE&title=Live+from+NYC%2C+It%E2%80%99s+Made+by+Google+%E2%80%9825&lang=en&timestamp=1755714155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4615" alt="Live from NYC, It’s Made by Google ‘25" title="Live from NYC, It’s Made by Google ‘25">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/SWjltLnChZw">
+<a href="https://www.youtube.com/shorts/DVzY3f0NLUY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWjltLnChZw&title=Surprise%21+%E2%9C%A8+Students+get+the+Gemini+FREE+Pro+Plan+for+1+yr.+Learn+more%3A+goo.gle%2Ffreepro.+Terms+apply&lang=en&timestamp=1754513916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5">
-    <img src="https://ytcards.demolab.com/?id=SWjltLnChZw&title=Surprise%21+%E2%9C%A8+Students+get+the+Gemini+FREE+Pro+Plan+for+1+yr.+Learn+more%3A+goo.gle%2Ffreepro.+Terms+apply&lang=en&timestamp=1754513916&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5" alt="Surprise! ✨ Students get the Gemini FREE Pro Plan for 1 yr. Learn more: goo.gle/freepro. Terms apply" title="Surprise! ✨ Students get the Gemini FREE Pro Plan for 1 yr. Learn more: goo.gle/freepro. Terms apply">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DVzY3f0NLUY&title=Big+news%21+%F0%9F%93%A3+Get+a+first+look+at+the+Google+Pixel+10+Pro+Fold&lang=en&timestamp=1755712414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=74">
+    <img src="https://ytcards.demolab.com/?id=DVzY3f0NLUY&title=Big+news%21+%F0%9F%93%A3+Get+a+first+look+at+the+Google+Pixel+10+Pro+Fold&lang=en&timestamp=1755712414&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=74" alt="Big news! 📣 Get a first look at the Google Pixel 10 Pro Fold" title="Big news! 📣 Get a first look at the Google Pixel 10 Pro Fold">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/wIdPsYVGjfE">
+<a href="https://www.youtube.com/shorts/1DElztxF3VA">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wIdPsYVGjfE&title=Students+get+a+FREE+1-year+Pro+plan%3A+Gemini+2.5+Pro%2C+2TB+storage+%26+more.+Terms+apply.&lang=en&timestamp=1754502372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
-    <img src="https://ytcards.demolab.com/?id=wIdPsYVGjfE&title=Students+get+a+FREE+1-year+Pro+plan%3A+Gemini+2.5+Pro%2C+2TB+storage+%26+more.+Terms+apply.&lang=en&timestamp=1754502372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage & more. Terms apply." title="Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage & more. Terms apply.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1DElztxF3VA&title=The+wait+is+over%21++%F0%9F%8E%89++Meet+the+brand+new+Google+Pixel+10%2C+Pixel+10+Pro+and+Pixel+10+Pro+XL&lang=en&timestamp=1755710655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=78">
+    <img src="https://ytcards.demolab.com/?id=1DElztxF3VA&title=The+wait+is+over%21++%F0%9F%8E%89++Meet+the+brand+new+Google+Pixel+10%2C+Pixel+10+Pro+and+Pixel+10+Pro+XL&lang=en&timestamp=1755710655&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=78" alt="The wait is over!  🎉  Meet the brand new Google Pixel 10, Pixel 10 Pro and Pixel 10 Pro XL" title="The wait is over!  🎉  Meet the brand new Google Pixel 10, Pixel 10 Pro and Pixel 10 Pro XL">
   </picture>
 </a>
 <!-- END VID -->
