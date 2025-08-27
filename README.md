@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=aGPzQDfKcIU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aGPzQDfKcIU&title=How+Technology+is+Reshaping+Geopolitics++%7C+NYT%E2%80%99s+David+Sanger+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1756223059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
+    <img src="https://ytcards.demolab.com/?id=aGPzQDfKcIU&title=How+Technology+is+Reshaping+Geopolitics++%7C+NYT%E2%80%99s+David+Sanger+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1756223059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker" title="How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/Saxxa0e6As4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Saxxa0e6As4&title=Take+your+images+into+the+stratosphere+with+Image+2+Video+in+Gemini+%F0%9F%AA%90%E2%9C%A8&lang=en&timestamp=1756148155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=06b4UeDcQbE&title=Live+from+NYC%2C+It%E2%80%99s+Made+by+Google+%E2%80%9825&lang=en&timestamp=1755714155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4615">
     <img src="https://ytcards.demolab.com/?id=06b4UeDcQbE&title=Live+from+NYC%2C+It%E2%80%99s+Made+by+Google+%E2%80%9825&lang=en&timestamp=1755714155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4615" alt="Live from NYC, It’s Made by Google ‘25" title="Live from NYC, It’s Made by Google ‘25">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/DVzY3f0NLUY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DVzY3f0NLUY&title=Big+news%21+%F0%9F%93%A3+Get+a+first+look+at+the+Google+Pixel+10+Pro+Fold&lang=en&timestamp=1755712414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=74">
-    <img src="https://ytcards.demolab.com/?id=DVzY3f0NLUY&title=Big+news%21+%F0%9F%93%A3+Get+a+first+look+at+the+Google+Pixel+10+Pro+Fold&lang=en&timestamp=1755712414&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=74" alt="Big news! 📣 Get a first look at the Google Pixel 10 Pro Fold" title="Big news! 📣 Get a first look at the Google Pixel 10 Pro Fold">
   </picture>
 </a>
 <!-- END VID -->
