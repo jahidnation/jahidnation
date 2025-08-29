@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/wdy3ySo7qU8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+    <img src="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Unboxing the new #Pixel10 Pro XL #MadeByGoogle #GoogleGemini #ASMR" title="Unboxing the new #Pixel10 Pro XL #MadeByGoogle #GoogleGemini #ASMR">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/VvhdvR9hiWQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VvhdvR9hiWQ&title=Follow+the+yellow+brick+road+%F0%9F%9F%A8%F0%9F%9F%A8%F0%9F%9F%A8+to+Vegas+%E2%9C%A8+starting+8%2F28.+Tickets+are+on+sale+at+thesphere.com&lang=en&timestamp=1756397609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90">
+    <img src="https://ytcards.demolab.com/?id=VvhdvR9hiWQ&title=Follow+the+yellow+brick+road+%F0%9F%9F%A8%F0%9F%9F%A8%F0%9F%9F%A8+to+Vegas+%E2%9C%A8+starting+8%2F28.+Tickets+are+on+sale+at+thesphere.com&lang=en&timestamp=1756397609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=90" alt="Follow the yellow brick road 🟨🟨🟨 to Vegas ✨ starting 8/28. Tickets are on sale at thesphere.com" title="Follow the yellow brick road 🟨🟨🟨 to Vegas ✨ starting 8/28. Tickets are on sale at thesphere.com">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/PyFgqj8RhJE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PyFgqj8RhJE&title=Looks+like+everyone+is+looking+for+their+significant+otter.&lang=en&timestamp=1756339810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Saxxa0e6As4&title=Take+your+images+into+the+stratosphere+with+Image+2+Video+in+Gemini+%F0%9F%AA%90%E2%9C%A8&lang=en&timestamp=1756148155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39">
     <img src="https://ytcards.demolab.com/?id=Saxxa0e6As4&title=Take+your+images+into+the+stratosphere+with+Image+2+Video+in+Gemini+%F0%9F%AA%90%E2%9C%A8&lang=en&timestamp=1756148155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=39" alt="Take your images into the stratosphere with Image 2 Video in Gemini 🪐✨" title="Take your images into the stratosphere with Image 2 Video in Gemini 🪐✨">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ddKaRQRVer4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ddKaRQRVer4&title=Unpacking+a+Decade+of+Pixel%3A+The+OG+Story+%7C+Made+by+Google+Podcast+S8E1&lang=en&timestamp=1755727307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1441">
-    <img src="https://ytcards.demolab.com/?id=ddKaRQRVer4&title=Unpacking+a+Decade+of+Pixel%3A+The+OG+Story+%7C+Made+by+Google+Podcast+S8E1&lang=en&timestamp=1755727307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1441" alt="Unpacking a Decade of Pixel: The OG Story | Made by Google Podcast S8E1" title="Unpacking a Decade of Pixel: The OG Story | Made by Google Podcast S8E1">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/S1pCFRyGCdY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S1pCFRyGCdY&title=Just+dropped+today%21+The+Google+Pixel+Buds+2a+are+here&lang=en&timestamp=1755718687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14">
-    <img src="https://ytcards.demolab.com/?id=S1pCFRyGCdY&title=Just+dropped+today%21+The+Google+Pixel+Buds+2a+are+here&lang=en&timestamp=1755718687&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14" alt="Just dropped today! The Google Pixel Buds 2a are here" title="Just dropped today! The Google Pixel Buds 2a are here">
   </picture>
 </a>
 <!-- END VID -->
