@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=vuQdkbr0WjU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vuQdkbr0WjU&title=The+Pixel+Watch+4%3A+From+Design+to+Wear+%7C+Made+by+Google+Podcast+S8E3&lang=en&timestamp=1756934889&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1490">
+    <img src="https://ytcards.demolab.com/?id=vuQdkbr0WjU&title=The+Pixel+Watch+4%3A+From+Design+to+Wear+%7C+Made+by+Google+Podcast+S8E3&lang=en&timestamp=1756934889&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1490" alt="The Pixel Watch 4: From Design to Wear | Made by Google Podcast S8E3" title="The Pixel Watch 4: From Design to Wear | Made by Google Podcast S8E3">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/wdy3ySo7qU8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aGPzQDfKcIU&title=How+Technology+is+Reshaping+Geopolitics++%7C+NYT%E2%80%99s+David+Sanger+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1756223059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
     <img src="https://ytcards.demolab.com/?id=aGPzQDfKcIU&title=How+Technology+is+Reshaping+Geopolitics++%7C+NYT%E2%80%99s+David+Sanger+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1756223059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker" title="How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/Saxxa0e6As4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Saxxa0e6As4&title=Take+your+images+into+the+stratosphere+with+Image+2+Video+in+Gemini+%F0%9F%AA%90%E2%9C%A8&lang=en&timestamp=1756148155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39">
-    <img src="https://ytcards.demolab.com/?id=Saxxa0e6As4&title=Take+your+images+into+the+stratosphere+with+Image+2+Video+in+Gemini+%F0%9F%AA%90%E2%9C%A8&lang=en&timestamp=1756148155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=39" alt="Take your images into the stratosphere with Image 2 Video in Gemini 🪐✨" title="Take your images into the stratosphere with Image 2 Video in Gemini 🪐✨">
   </picture>
 </a>
 <!-- END VID -->
