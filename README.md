@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/tfGjzwwSvGE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
+    <img src="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Get ready for spooky season with a little help from Gemini 👻✨" title="Get ready for spooky season with a little help from Gemini 👻✨">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=vuQdkbr0WjU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vuQdkbr0WjU&title=The+Pixel+Watch+4%3A+From+Design+to+Wear+%7C+Made+by+Google+Podcast+S8E3&lang=en&timestamp=1756934889&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1490">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R0ZKgpC1mCk&title=The+Pixel+10+Deep+Dive+%7C+Made+by+Google+Podcast+S8E2&lang=en&timestamp=1756321063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1587">
     <img src="https://ytcards.demolab.com/?id=R0ZKgpC1mCk&title=The+Pixel+10+Deep+Dive+%7C+Made+by+Google+Podcast+S8E2&lang=en&timestamp=1756321063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1587" alt="The Pixel 10 Deep Dive | Made by Google Podcast S8E2" title="The Pixel 10 Deep Dive | Made by Google Podcast S8E2">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=aGPzQDfKcIU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aGPzQDfKcIU&title=How+Technology+is+Reshaping+Geopolitics++%7C+NYT%E2%80%99s+David+Sanger+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1756223059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
-    <img src="https://ytcards.demolab.com/?id=aGPzQDfKcIU&title=How+Technology+is+Reshaping+Geopolitics++%7C+NYT%E2%80%99s+David+Sanger+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1756223059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker" title="How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker">
   </picture>
 </a>
 <!-- END VID -->
