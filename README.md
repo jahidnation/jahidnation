@@ -35,10 +35,16 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/RRuR9s0XKro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RRuR9s0XKro&title=Simplify+classwork+with+AI+Mode+in+Search.+Just+upload+your+syllabus+PDF+to+get+going.&lang=en&timestamp=1757367082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
+    <img src="https://ytcards.demolab.com/?id=RRuR9s0XKro&title=Simplify+classwork+with+AI+Mode+in+Search.+Just+upload+your+syllabus+PDF+to+get+going.&lang=en&timestamp=1757367082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Simplify classwork with AI Mode in Search. Just upload your syllabus PDF to get going." title="Simplify classwork with AI Mode in Search. Just upload your syllabus PDF to get going.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/tfGjzwwSvGE">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
-    <img src="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Get ready for spooky season with a little help from Gemini 👻✨" title="Get ready for spooky season with a little help from Gemini 👻✨">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+%23NanoBanana+in+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
+    <img src="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+%23NanoBanana+in+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Get ready for spooky season with a little help from #NanoBanana in Gemini 👻✨" title="Get ready for spooky season with a little help from #NanoBanana in Gemini 👻✨">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=vuQdkbr0WjU">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PyFgqj8RhJE&title=Looks+like+everyone+is+looking+for+their+significant+otter.&lang=en&timestamp=1756339810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
     <img src="https://ytcards.demolab.com/?id=PyFgqj8RhJE&title=Looks+like+everyone+is+looking+for+their+significant+otter.&lang=en&timestamp=1756339810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="Looks like everyone is looking for their significant otter." title="Looks like everyone is looking for their significant otter.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=R0ZKgpC1mCk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R0ZKgpC1mCk&title=The+Pixel+10+Deep+Dive+%7C+Made+by+Google+Podcast+S8E2&lang=en&timestamp=1756321063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1587">
-    <img src="https://ytcards.demolab.com/?id=R0ZKgpC1mCk&title=The+Pixel+10+Deep+Dive+%7C+Made+by+Google+Podcast+S8E2&lang=en&timestamp=1756321063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1587" alt="The Pixel 10 Deep Dive | Made by Google Podcast S8E2" title="The Pixel 10 Deep Dive | Made by Google Podcast S8E2">
   </picture>
 </a>
 <!-- END VID -->
