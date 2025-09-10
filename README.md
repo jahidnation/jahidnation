@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/TGR1mdBVUvI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TGR1mdBVUvI&title=Not+to+go+off+on+a+tangent%2C+but+these+math+easter+eggs+in+%23GoogleSearch+are+pretty+%28a%29cute.&lang=en&timestamp=1757455960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
+    <img src="https://ytcards.demolab.com/?id=TGR1mdBVUvI&title=Not+to+go+off+on+a+tangent%2C+but+these+math+easter+eggs+in+%23GoogleSearch+are+pretty+%28a%29cute.&lang=en&timestamp=1757455960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Not to go off on a tangent, but these math easter eggs in #GoogleSearch are pretty (a)cute." title="Not to go off on a tangent, but these math easter eggs in #GoogleSearch are pretty (a)cute.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=ioSW__2I-B8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ioSW__2I-B8&title=What+is+the+role+of+AI+in+enhancing+digital+defense%3F+%7C+Gen.+David+H.+Petraeus+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1757451723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=504">
+    <img src="https://ytcards.demolab.com/?id=ioSW__2I-B8&title=What+is+the+role+of+AI+in+enhancing+digital+defense%3F+%7C+Gen.+David+H.+Petraeus+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1757451723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=504" alt="What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker" title="What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/RRuR9s0XKro">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RRuR9s0XKro&title=Simplify+classwork+with+AI+Mode+in+Search.+Just+upload+your+syllabus+PDF+to+get+going.&lang=en&timestamp=1757367082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
     <img src="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Unboxing the new #Pixel10 Pro XL #MadeByGoogle #GoogleGemini #ASMR" title="Unboxing the new #Pixel10 Pro XL #MadeByGoogle #GoogleGemini #ASMR">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/VvhdvR9hiWQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VvhdvR9hiWQ&title=Follow+the+yellow+brick+road+%F0%9F%9F%A8%F0%9F%9F%A8%F0%9F%9F%A8+to+Vegas+%E2%9C%A8+starting+8%2F28.+Tickets+are+on+sale+at+thesphere.com&lang=en&timestamp=1756397609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90">
-    <img src="https://ytcards.demolab.com/?id=VvhdvR9hiWQ&title=Follow+the+yellow+brick+road+%F0%9F%9F%A8%F0%9F%9F%A8%F0%9F%9F%A8+to+Vegas+%E2%9C%A8+starting+8%2F28.+Tickets+are+on+sale+at+thesphere.com&lang=en&timestamp=1756397609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=90" alt="Follow the yellow brick road 🟨🟨🟨 to Vegas ✨ starting 8/28. Tickets are on sale at thesphere.com" title="Follow the yellow brick road 🟨🟨🟨 to Vegas ✨ starting 8/28. Tickets are on sale at thesphere.com">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/PyFgqj8RhJE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PyFgqj8RhJE&title=Looks+like+everyone+is+looking+for+their+significant+otter.&lang=en&timestamp=1756339810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
-    <img src="https://ytcards.demolab.com/?id=PyFgqj8RhJE&title=Looks+like+everyone+is+looking+for+their+significant+otter.&lang=en&timestamp=1756339810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="Looks like everyone is looking for their significant otter." title="Looks like everyone is looking for their significant otter.">
   </picture>
 </a>
 <!-- END VID -->
