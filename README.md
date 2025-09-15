@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/tJ8EF6TviY8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJ8EF6TviY8&title=Follow+all+the+WNBA+playoff+action+on+Google+%F0%9F%8F%80&lang=en&timestamp=1757859297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
+    <img src="https://ytcards.demolab.com/?id=tJ8EF6TviY8&title=Follow+all+the+WNBA+playoff+action+on+Google+%F0%9F%8F%80&lang=en&timestamp=1757859297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19" alt="Follow all the WNBA playoff action on Google 🏀" title="Follow all the WNBA playoff action on Google 🏀">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/TGR1mdBVUvI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TGR1mdBVUvI&title=Not+to+go+off+on+a+tangent%2C+but+these+math+easter+eggs+in+%23GoogleSearch+are+pretty+%28a%29cute.&lang=en&timestamp=1757455960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vuQdkbr0WjU&title=The+Pixel+Watch+4%3A+From+Design+to+Wear+%7C+Made+by+Google+Podcast+S8E3&lang=en&timestamp=1756934889&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1490">
     <img src="https://ytcards.demolab.com/?id=vuQdkbr0WjU&title=The+Pixel+Watch+4%3A+From+Design+to+Wear+%7C+Made+by+Google+Podcast+S8E3&lang=en&timestamp=1756934889&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1490" alt="The Pixel Watch 4: From Design to Wear | Made by Google Podcast S8E3" title="The Pixel Watch 4: From Design to Wear | Made by Google Podcast S8E3">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/wdy3ySo7qU8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-    <img src="https://ytcards.demolab.com/?id=wdy3ySo7qU8&title=Unboxing+the+new+%23Pixel10+Pro+XL+%23MadeByGoogle+%23GoogleGemini+%23ASMR&lang=en&timestamp=1756408106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Unboxing the new #Pixel10 Pro XL #MadeByGoogle #GoogleGemini #ASMR" title="Unboxing the new #Pixel10 Pro XL #MadeByGoogle #GoogleGemini #ASMR">
   </picture>
 </a>
 <!-- END VID -->
