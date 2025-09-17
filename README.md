@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/SkHXOFgRFfU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33">
+    <img src="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=33" alt="For help resolving roommate conflict (without huffing and puffing) try AI Mode in Search." title="For help resolving roommate conflict (without huffing and puffing) try AI Mode in Search.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/acSmp97gwyo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=acSmp97gwyo&title=A+new+way+to+make+Shorts+just+dropped+%E2%9C%A8+Veo+3+is+coming+free+to+everyone+in+YouTube+Shorts.&lang=en&timestamp=1758037851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22">
+    <img src="https://ytcards.demolab.com/?id=acSmp97gwyo&title=A+new+way+to+make+Shorts+just+dropped+%E2%9C%A8+Veo+3+is+coming+free+to+everyone+in+YouTube+Shorts.&lang=en&timestamp=1758037851&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22" alt="A new way to make Shorts just dropped ✨ Veo 3 is coming free to everyone in YouTube Shorts." title="A new way to make Shorts just dropped ✨ Veo 3 is coming free to everyone in YouTube Shorts.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/jDQWXWj_mrs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jDQWXWj_mrs&title=A+new+way+to+search.+Look+for+the+AI+Mode+button+in+Google+Search%2C+tap+it%2C+and+dive+into+discovery.&lang=en&timestamp=1757967695&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ioSW__2I-B8&title=What+is+the+role+of+AI+in+enhancing+digital+defense%3F+%7C+Gen.+David+H.+Petraeus+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1757451723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=504">
     <img src="https://ytcards.demolab.com/?id=ioSW__2I-B8&title=What+is+the+role+of+AI+in+enhancing+digital+defense%3F+%7C+Gen.+David+H.+Petraeus+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1757451723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=504" alt="What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker" title="What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/RRuR9s0XKro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RRuR9s0XKro&title=Simplify+classwork+with+AI+Mode+in+Search.+Just+upload+your+syllabus+PDF+to+get+going.&lang=en&timestamp=1757367082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
-    <img src="https://ytcards.demolab.com/?id=RRuR9s0XKro&title=Simplify+classwork+with+AI+Mode+in+Search.+Just+upload+your+syllabus+PDF+to+get+going.&lang=en&timestamp=1757367082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Simplify classwork with AI Mode in Search. Just upload your syllabus PDF to get going." title="Simplify classwork with AI Mode in Search. Just upload your syllabus PDF to get going.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/tfGjzwwSvGE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+%23NanoBanana+in+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
-    <img src="https://ytcards.demolab.com/?id=tfGjzwwSvGE&title=Get+ready+for+spooky+season+with+a+little+help+from+%23NanoBanana+in+Gemini+%F0%9F%91%BB%E2%9C%A8&lang=en&timestamp=1757016132&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Get ready for spooky season with a little help from #NanoBanana in Gemini 👻✨" title="Get ready for spooky season with a little help from #NanoBanana in Gemini 👻✨">
   </picture>
 </a>
 <!-- END VID -->
