@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/dmoqC0qny5I">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dmoqC0qny5I&title=Team+Gemini+needs+YOU%21+%F0%9F%93%A3%F0%9F%8F%80+Create+your+own+custom+figurine+with+Google+Gemini%E2%80%99s++%23NanoBanana.&lang=en&timestamp=1758145496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
+    <img src="https://ytcards.demolab.com/?id=dmoqC0qny5I&title=Team+Gemini+needs+YOU%21+%F0%9F%93%A3%F0%9F%8F%80+Create+your+own+custom+figurine+with+Google+Gemini%E2%80%99s++%23NanoBanana.&lang=en&timestamp=1758145496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24" alt="Team Gemini needs YOU! 📣🏀 Create your own custom figurine with Google Gemini’s  #NanoBanana." title="Team Gemini needs YOU! 📣🏀 Create your own custom figurine with Google Gemini’s  #NanoBanana.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/lb1yZ4ifS3I">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lb1yZ4ifS3I&title=POV%3A+You%E2%80%99re+using+Pro+Res+Zoom+on+the+new+Pixel+10+Pro+XL++%F0%9F%93%B8&lang=en&timestamp=1758131003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
+    <img src="https://ytcards.demolab.com/?id=lb1yZ4ifS3I&title=POV%3A+You%E2%80%99re+using+Pro+Res+Zoom+on+the+new+Pixel+10+Pro+XL++%F0%9F%93%B8&lang=en&timestamp=1758131003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="POV: You’re using Pro Res Zoom on the new Pixel 10 Pro XL  📸" title="POV: You’re using Pro Res Zoom on the new Pixel 10 Pro XL  📸">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/SkHXOFgRFfU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJ8EF6TviY8&title=Follow+all+the+WNBA+playoff+action+on+Google+%F0%9F%8F%80&lang=en&timestamp=1757859297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
     <img src="https://ytcards.demolab.com/?id=tJ8EF6TviY8&title=Follow+all+the+WNBA+playoff+action+on+Google+%F0%9F%8F%80&lang=en&timestamp=1757859297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19" alt="Follow all the WNBA playoff action on Google 🏀" title="Follow all the WNBA playoff action on Google 🏀">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/TGR1mdBVUvI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TGR1mdBVUvI&title=Not+to+go+off+on+a+tangent%2C+but+these+math+easter+eggs+in+%23GoogleSearch+are+pretty+%28a%29cute.&lang=en&timestamp=1757455960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
-    <img src="https://ytcards.demolab.com/?id=TGR1mdBVUvI&title=Not+to+go+off+on+a+tangent%2C+but+these+math+easter+eggs+in+%23GoogleSearch+are+pretty+%28a%29cute.&lang=en&timestamp=1757455960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Not to go off on a tangent, but these math easter eggs in #GoogleSearch are pretty (a)cute." title="Not to go off on a tangent, but these math easter eggs in #GoogleSearch are pretty (a)cute.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ioSW__2I-B8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ioSW__2I-B8&title=What+is+the+role+of+AI+in+enhancing+digital+defense%3F+%7C+Gen.+David+H.+Petraeus+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1757451723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=504">
-    <img src="https://ytcards.demolab.com/?id=ioSW__2I-B8&title=What+is+the+role+of+AI+in+enhancing+digital+defense%3F+%7C+Gen.+David+H.+Petraeus+%26+Google%E2%80%99s+Kent+Walker&lang=en&timestamp=1757451723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=504" alt="What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker" title="What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker">
   </picture>
 </a>
 <!-- END VID -->
