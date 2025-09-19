@@ -35,6 +35,24 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/ku372-7YtS4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ku372-7YtS4&title=Dreaming+of+career+in+film%3F+Here%E2%80%99s+how+you+can+use+Gemini+to+hone+your+craft.+%F0%9F%8E%A5&lang=en&timestamp=1758231448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17">
+    <img src="https://ytcards.demolab.com/?id=ku372-7YtS4&title=Dreaming+of+career+in+film%3F+Here%E2%80%99s+how+you+can+use+Gemini+to+hone+your+craft.+%F0%9F%8E%A5&lang=en&timestamp=1758231448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17" alt="Dreaming of career in film? Here’s how you can use Gemini to hone your craft. 🎥" title="Dreaming of career in film? Here’s how you can use Gemini to hone your craft. 🎥">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=_rf7Mc2r0M0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_rf7Mc2r0M0&title=Upgrade+your+profile+pic+with+Google+Gemini&lang=en&timestamp=1758220820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
+    <img src="https://ytcards.demolab.com/?id=_rf7Mc2r0M0&title=Upgrade+your+profile+pic+with+Google+Gemini&lang=en&timestamp=1758220820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Upgrade your profile pic with Google Gemini" title="Upgrade your profile pic with Google Gemini">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/6eQ7lU6zRfA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6eQ7lU6zRfA&title=Using+AI+Mode+in+Google+Search+to+do+the+research+for+you+feels+like+%E2%98%9D%EF%B8%8F&lang=en&timestamp=1758220801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
+    <img src="https://ytcards.demolab.com/?id=6eQ7lU6zRfA&title=Using+AI+Mode+in+Google+Search+to+do+the+research+for+you+feels+like+%E2%98%9D%EF%B8%8F&lang=en&timestamp=1758220801&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="Using AI Mode in Google Search to do the research for you feels like ☝️" title="Using AI Mode in Google Search to do the research for you feels like ☝️">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/dmoqC0qny5I">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dmoqC0qny5I&title=Team+Gemini+needs+YOU%21+%F0%9F%93%A3%F0%9F%8F%80+Create+your+own+custom+figurine+with+Google+Gemini%E2%80%99s++%23NanoBanana.&lang=en&timestamp=1758145496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
@@ -51,24 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33">
     <img src="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=33" alt="For help resolving roommate conflict (without huffing and puffing) try AI Mode in Search." title="For help resolving roommate conflict (without huffing and puffing) try AI Mode in Search.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/acSmp97gwyo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=acSmp97gwyo&title=A+new+way+to+make+Shorts+just+dropped+%E2%9C%A8+Veo+3+is+coming+free+to+everyone+in+YouTube+Shorts.&lang=en&timestamp=1758037851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22">
-    <img src="https://ytcards.demolab.com/?id=acSmp97gwyo&title=A+new+way+to+make+Shorts+just+dropped+%E2%9C%A8+Veo+3+is+coming+free+to+everyone+in+YouTube+Shorts.&lang=en&timestamp=1758037851&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22" alt="A new way to make Shorts just dropped ✨ Veo 3 is coming free to everyone in YouTube Shorts." title="A new way to make Shorts just dropped ✨ Veo 3 is coming free to everyone in YouTube Shorts.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/jDQWXWj_mrs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jDQWXWj_mrs&title=A+new+way+to+search.+Look+for+the+AI+Mode+button+in+Google+Search%2C+tap+it%2C+and+dive+into+discovery.&lang=en&timestamp=1757967695&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32">
-    <img src="https://ytcards.demolab.com/?id=jDQWXWj_mrs&title=A+new+way+to+search.+Look+for+the+AI+Mode+button+in+Google+Search%2C+tap+it%2C+and+dive+into+discovery.&lang=en&timestamp=1757967695&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=32" alt="A new way to search. Look for the AI Mode button in Google Search, tap it, and dive into discovery." title="A new way to search. Look for the AI Mode button in Google Search, tap it, and dive into discovery.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/tJ8EF6TviY8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJ8EF6TviY8&title=Follow+all+the+WNBA+playoff+action+on+Google+%F0%9F%8F%80&lang=en&timestamp=1757859297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19">
-    <img src="https://ytcards.demolab.com/?id=tJ8EF6TviY8&title=Follow+all+the+WNBA+playoff+action+on+Google+%F0%9F%8F%80&lang=en&timestamp=1757859297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19" alt="Follow all the WNBA playoff action on Google 🏀" title="Follow all the WNBA playoff action on Google 🏀">
   </picture>
 </a>
 <!-- END VID -->
