@@ -35,6 +35,24 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/BdXExQKW8Ws">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BdXExQKW8Ws&title=Looks+like+the+whole+school%E2%80%99s+in+detention+today+%F0%9F%A4%B7&lang=en&timestamp=1758571816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
+    <img src="https://ytcards.demolab.com/?id=BdXExQKW8Ws&title=Looks+like+the+whole+school%E2%80%99s+in+detention+today+%F0%9F%A4%B7&lang=en&timestamp=1758571816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Looks like the whole school’s in detention today 🤷" title="Looks like the whole school’s in detention today 🤷">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=rFH3CJgkEAw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rFH3CJgkEAw&title=Introducing+Gemini+for+Google+TV&lang=en&timestamp=1758564968&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
+    <img src="https://ytcards.demolab.com/?id=rFH3CJgkEAw&title=Introducing+Gemini+for+Google+TV&lang=en&timestamp=1758564968&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="Introducing Gemini for Google TV" title="Introducing Gemini for Google TV">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/YixnhkcDsJU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YixnhkcDsJU&title=Try+this+Gemini+hack+to+make+sure+you+never+miss+an+important+date.&lang=en&timestamp=1758563760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
+    <img src="https://ytcards.demolab.com/?id=YixnhkcDsJU&title=Try+this+Gemini+hack+to+make+sure+you+never+miss+an+important+date.&lang=en&timestamp=1758563760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Try this Gemini hack to make sure you never miss an important date." title="Try this Gemini hack to make sure you never miss an important date.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/ku372-7YtS4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ku372-7YtS4&title=Dreaming+of+career+in+film%3F+Here%E2%80%99s+how+you+can+use+Gemini+to+hone+your+craft.+%F0%9F%8E%A5&lang=en&timestamp=1758231448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17">
@@ -51,24 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6eQ7lU6zRfA&title=Using+AI+Mode+in+Google+Search+to+do+the+research+for+you+feels+like+%E2%98%9D%EF%B8%8F&lang=en&timestamp=1758220801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
     <img src="https://ytcards.demolab.com/?id=6eQ7lU6zRfA&title=Using+AI+Mode+in+Google+Search+to+do+the+research+for+you+feels+like+%E2%98%9D%EF%B8%8F&lang=en&timestamp=1758220801&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="Using AI Mode in Google Search to do the research for you feels like ☝️" title="Using AI Mode in Google Search to do the research for you feels like ☝️">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/dmoqC0qny5I">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dmoqC0qny5I&title=Team+Gemini+needs+YOU%21+%F0%9F%93%A3%F0%9F%8F%80+Create+your+own+custom+figurine+with+Google+Gemini%E2%80%99s++%23NanoBanana.&lang=en&timestamp=1758145496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
-    <img src="https://ytcards.demolab.com/?id=dmoqC0qny5I&title=Team+Gemini+needs+YOU%21+%F0%9F%93%A3%F0%9F%8F%80+Create+your+own+custom+figurine+with+Google+Gemini%E2%80%99s++%23NanoBanana.&lang=en&timestamp=1758145496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24" alt="Team Gemini needs YOU! 📣🏀 Create your own custom figurine with Google Gemini’s  #NanoBanana." title="Team Gemini needs YOU! 📣🏀 Create your own custom figurine with Google Gemini’s  #NanoBanana.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/lb1yZ4ifS3I">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lb1yZ4ifS3I&title=POV%3A+You%E2%80%99re+using+Pro+Res+Zoom+on+the+new+Pixel+10+Pro+XL++%F0%9F%93%B8&lang=en&timestamp=1758131003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
-    <img src="https://ytcards.demolab.com/?id=lb1yZ4ifS3I&title=POV%3A+You%E2%80%99re+using+Pro+Res+Zoom+on+the+new+Pixel+10+Pro+XL++%F0%9F%93%B8&lang=en&timestamp=1758131003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="POV: You’re using Pro Res Zoom on the new Pixel 10 Pro XL  📸" title="POV: You’re using Pro Res Zoom on the new Pixel 10 Pro XL  📸">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/SkHXOFgRFfU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33">
-    <img src="https://ytcards.demolab.com/?id=SkHXOFgRFfU&title=For+help+resolving+roommate+conflict+%28without+huffing+and+puffing%29+try+AI+Mode+in+Search.&lang=en&timestamp=1758051043&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=33" alt="For help resolving roommate conflict (without huffing and puffing) try AI Mode in Search." title="For help resolving roommate conflict (without huffing and puffing) try AI Mode in Search.">
   </picture>
 </a>
 <!-- END VID -->
