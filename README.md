@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/pODu1ZMPyQ0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pODu1ZMPyQ0&title=Find+the+AI+Mode+button+in+Google+Search+to+unlock+a+new+dimension+of+learning.&lang=en&timestamp=1758658839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=pODu1ZMPyQ0&title=Find+the+AI+Mode+button+in+Google+Search+to+unlock+a+new+dimension+of+learning.&lang=en&timestamp=1758658839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Find the AI Mode button in Google Search to unlock a new dimension of learning." title="Find the AI Mode button in Google Search to unlock a new dimension of learning.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/BdXExQKW8Ws">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BdXExQKW8Ws&title=Looks+like+the+whole+school%E2%80%99s+in+detention+today+%F0%9F%A4%B7&lang=en&timestamp=1758571816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_rf7Mc2r0M0&title=Upgrade+your+profile+pic+with+Google+Gemini&lang=en&timestamp=1758220820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
     <img src="https://ytcards.demolab.com/?id=_rf7Mc2r0M0&title=Upgrade+your+profile+pic+with+Google+Gemini&lang=en&timestamp=1758220820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Upgrade your profile pic with Google Gemini" title="Upgrade your profile pic with Google Gemini">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/6eQ7lU6zRfA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6eQ7lU6zRfA&title=Using+AI+Mode+in+Google+Search+to+do+the+research+for+you+feels+like+%E2%98%9D%EF%B8%8F&lang=en&timestamp=1758220801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15">
-    <img src="https://ytcards.demolab.com/?id=6eQ7lU6zRfA&title=Using+AI+Mode+in+Google+Search+to+do+the+research+for+you+feels+like+%E2%98%9D%EF%B8%8F&lang=en&timestamp=1758220801&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15" alt="Using AI Mode in Google Search to do the research for you feels like ☝️" title="Using AI Mode in Google Search to do the research for you feels like ☝️">
   </picture>
 </a>
 <!-- END VID -->
