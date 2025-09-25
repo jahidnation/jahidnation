@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=d89VluY2AMA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d89VluY2AMA&title=Smart+Silicon%3A+Tensor+G5+and+the+Next+Era+of+the+AI+Phone+%7C+Made+by+Google+Podcast+S8E4&lang=en&timestamp=1758740926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1926">
+    <img src="https://ytcards.demolab.com/?id=d89VluY2AMA&title=Smart+Silicon%3A+Tensor+G5+and+the+Next+Era+of+the+AI+Phone+%7C+Made+by+Google+Podcast+S8E4&lang=en&timestamp=1758740926&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1926" alt="Smart Silicon: Tensor G5 and the Next Era of the AI Phone | Made by Google Podcast S8E4" title="Smart Silicon: Tensor G5 and the Next Era of the AI Phone | Made by Google Podcast S8E4">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/dnlsORNx60Q">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dnlsORNx60Q&title=Got+your+wires+crossed%3F+%F0%9F%93%BA%F0%9F%A4%B7+Show+Search+your+setup+for+live%2C+step-by-step+help.&lang=en&timestamp=1758734140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
+    <img src="https://ytcards.demolab.com/?id=dnlsORNx60Q&title=Got+your+wires+crossed%3F+%F0%9F%93%BA%F0%9F%A4%B7+Show+Search+your+setup+for+live%2C+step-by-step+help.&lang=en&timestamp=1758734140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help." title="Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/pODu1ZMPyQ0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pODu1ZMPyQ0&title=Find+the+AI+Mode+button+in+Google+Search+to+unlock+a+new+dimension+of+learning.&lang=en&timestamp=1758658839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YixnhkcDsJU&title=Try+this+Gemini+hack+to+make+sure+you+never+miss+an+important+date.&lang=en&timestamp=1758563760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
     <img src="https://ytcards.demolab.com/?id=YixnhkcDsJU&title=Try+this+Gemini+hack+to+make+sure+you+never+miss+an+important+date.&lang=en&timestamp=1758563760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Try this Gemini hack to make sure you never miss an important date." title="Try this Gemini hack to make sure you never miss an important date.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/ku372-7YtS4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ku372-7YtS4&title=Dreaming+of+career+in+film%3F+Here%E2%80%99s+how+you+can+use+Gemini+to+hone+your+craft.+%F0%9F%8E%A5&lang=en&timestamp=1758231448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17">
-    <img src="https://ytcards.demolab.com/?id=ku372-7YtS4&title=Dreaming+of+career+in+film%3F+Here%E2%80%99s+how+you+can+use+Gemini+to+hone+your+craft.+%F0%9F%8E%A5&lang=en&timestamp=1758231448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17" alt="Dreaming of career in film? Here’s how you can use Gemini to hone your craft. 🎥" title="Dreaming of career in film? Here’s how you can use Gemini to hone your craft. 🎥">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=_rf7Mc2r0M0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_rf7Mc2r0M0&title=Upgrade+your+profile+pic+with+Google+Gemini&lang=en&timestamp=1758220820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
-    <img src="https://ytcards.demolab.com/?id=_rf7Mc2r0M0&title=Upgrade+your+profile+pic+with+Google+Gemini&lang=en&timestamp=1758220820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Upgrade your profile pic with Google Gemini" title="Upgrade your profile pic with Google Gemini">
   </picture>
 </a>
 <!-- END VID -->
