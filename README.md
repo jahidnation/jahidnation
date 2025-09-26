@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/3ZEPzxqH_M8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36">
+    <img src="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=36" alt="We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨" title="We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=d89VluY2AMA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d89VluY2AMA&title=Smart+Silicon%3A+Tensor+G5+and+the+Next+Era+of+the+AI+Phone+%7C+Made+by+Google+Podcast+S8E4&lang=en&timestamp=1758740926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1926">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rFH3CJgkEAw&title=Introducing+Gemini+for+Google+TV&lang=en&timestamp=1758564968&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
     <img src="https://ytcards.demolab.com/?id=rFH3CJgkEAw&title=Introducing+Gemini+for+Google+TV&lang=en&timestamp=1758564968&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="Introducing Gemini for Google TV" title="Introducing Gemini for Google TV">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/YixnhkcDsJU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YixnhkcDsJU&title=Try+this+Gemini+hack+to+make+sure+you+never+miss+an+important+date.&lang=en&timestamp=1758563760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
-    <img src="https://ytcards.demolab.com/?id=YixnhkcDsJU&title=Try+this+Gemini+hack+to+make+sure+you+never+miss+an+important+date.&lang=en&timestamp=1758563760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Try this Gemini hack to make sure you never miss an important date." title="Try this Gemini hack to make sure you never miss an important date.">
   </picture>
 </a>
 <!-- END VID -->
