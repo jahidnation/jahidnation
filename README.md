@@ -35,6 +35,24 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/KL_yUVKmjgY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀" title="Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=IcICF_YF_tI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IcICF_YF_tI&title=Make+the+pet+of+your+dreams+a+reality+with+Nano+Banana&lang=en&timestamp=1758916004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
+    <img src="https://ytcards.demolab.com/?id=IcICF_YF_tI&title=Make+the+pet+of+your+dreams+a+reality+with+Nano+Banana&lang=en&timestamp=1758916004&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Make the pet of your dreams a reality with Nano Banana" title="Make the pet of your dreams a reality with Nano Banana">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/4EXuwZFLvjo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4EXuwZFLvjo&title=Want+your+dream+big+hair%3F+Get+it+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini.&lang=en&timestamp=1758903131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
+    <img src="https://ytcards.demolab.com/?id=4EXuwZFLvjo&title=Want+your+dream+big+hair%3F+Get+it+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini.&lang=en&timestamp=1758903131&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Want your dream big hair? Get it with #NanoBanana and #Veo3 in #GoogleGemini." title="Want your dream big hair? Get it with #NanoBanana and #Veo3 in #GoogleGemini.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/3ZEPzxqH_M8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36">
@@ -51,24 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dnlsORNx60Q&title=Got+your+wires+crossed%3F+%F0%9F%93%BA%F0%9F%A4%B7+Show+Search+your+setup+for+live%2C+step-by-step+help.&lang=en&timestamp=1758734140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
     <img src="https://ytcards.demolab.com/?id=dnlsORNx60Q&title=Got+your+wires+crossed%3F+%F0%9F%93%BA%F0%9F%A4%B7+Show+Search+your+setup+for+live%2C+step-by-step+help.&lang=en&timestamp=1758734140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help." title="Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/pODu1ZMPyQ0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pODu1ZMPyQ0&title=Find+the+AI+Mode+button+in+Google+Search+to+unlock+a+new+dimension+of+learning.&lang=en&timestamp=1758658839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=pODu1ZMPyQ0&title=Find+the+AI+Mode+button+in+Google+Search+to+unlock+a+new+dimension+of+learning.&lang=en&timestamp=1758658839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Find the AI Mode button in Google Search to unlock a new dimension of learning." title="Find the AI Mode button in Google Search to unlock a new dimension of learning.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/BdXExQKW8Ws">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BdXExQKW8Ws&title=Looks+like+the+whole+school%E2%80%99s+in+detention+today+%F0%9F%A4%B7&lang=en&timestamp=1758571816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
-    <img src="https://ytcards.demolab.com/?id=BdXExQKW8Ws&title=Looks+like+the+whole+school%E2%80%99s+in+detention+today+%F0%9F%A4%B7&lang=en&timestamp=1758571816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Looks like the whole school’s in detention today 🤷" title="Looks like the whole school’s in detention today 🤷">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=rFH3CJgkEAw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rFH3CJgkEAw&title=Introducing+Gemini+for+Google+TV&lang=en&timestamp=1758564968&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
-    <img src="https://ytcards.demolab.com/?id=rFH3CJgkEAw&title=Introducing+Gemini+for+Google+TV&lang=en&timestamp=1758564968&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="Introducing Gemini for Google TV" title="Introducing Gemini for Google TV">
   </picture>
 </a>
 <!-- END VID -->
