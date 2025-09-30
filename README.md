@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=spVzmy_LR2c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
+    <img src="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="Feeling stuck? Just Ask Google." title="Feeling stuck? Just Ask Google.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/N_Bd3Fx66bA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N_Bd3Fx66bA&title=Messy+roommates%3F+There%E2%80%99s+a+chart+for+that.+Go+from+chaos+to+clean+with+help+from+Gemini+%E2%9C%A8%F0%9F%A7%BA&lang=en&timestamp=1759162653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=N_Bd3Fx66bA&title=Messy+roommates%3F+There%E2%80%99s+a+chart+for+that.+Go+from+chaos+to+clean+with+help+from+Gemini+%E2%9C%A8%F0%9F%A7%BA&lang=en&timestamp=1759162653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Messy roommates? There’s a chart for that. Go from chaos to clean with help from Gemini ✨🧺" title="Messy roommates? There’s a chart for that. Go from chaos to clean with help from Gemini ✨🧺">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/KL_yUVKmjgY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36">
     <img src="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=36" alt="We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨" title="We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=d89VluY2AMA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d89VluY2AMA&title=Smart+Silicon%3A+Tensor+G5+and+the+Next+Era+of+the+AI+Phone+%7C+Made+by+Google+Podcast+S8E4&lang=en&timestamp=1758740926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1926">
-    <img src="https://ytcards.demolab.com/?id=d89VluY2AMA&title=Smart+Silicon%3A+Tensor+G5+and+the+Next+Era+of+the+AI+Phone+%7C+Made+by+Google+Podcast+S8E4&lang=en&timestamp=1758740926&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1926" alt="Smart Silicon: Tensor G5 and the Next Era of the AI Phone | Made by Google Podcast S8E4" title="Smart Silicon: Tensor G5 and the Next Era of the AI Phone | Made by Google Podcast S8E4">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/dnlsORNx60Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dnlsORNx60Q&title=Got+your+wires+crossed%3F+%F0%9F%93%BA%F0%9F%A4%B7+Show+Search+your+setup+for+live%2C+step-by-step+help.&lang=en&timestamp=1758734140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
-    <img src="https://ytcards.demolab.com/?id=dnlsORNx60Q&title=Got+your+wires+crossed%3F+%F0%9F%93%BA%F0%9F%A4%B7+Show+Search+your+setup+for+live%2C+step-by-step+help.&lang=en&timestamp=1758734140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help." title="Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help.">
   </picture>
 </a>
 <!-- END VID -->
