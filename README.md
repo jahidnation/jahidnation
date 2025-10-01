@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/evK7zdcAnWg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=66">
+    <img src="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=66" alt="Becoming an at-home barista?  🍵 Talk it out with Search to get tips for the perfect cup of matcha." title="Becoming an at-home barista?  🍵 Talk it out with Search to get tips for the perfect cup of matcha.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/gp62PJ07mZM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gp62PJ07mZM&title=Miss+your+%E2%80%9990s+power+bob%3F+Re-create+that+fly+hairstyle+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini&lang=en&timestamp=1759251561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
+    <img src="https://ytcards.demolab.com/?id=gp62PJ07mZM&title=Miss+your+%E2%80%9990s+power+bob%3F+Re-create+that+fly+hairstyle+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini&lang=en&timestamp=1759251561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Miss your ’90s power bob? Re-create that fly hairstyle with #NanoBanana and #Veo3 in #GoogleGemini" title="Miss your ’90s power bob? Re-create that fly hairstyle with #NanoBanana and #Veo3 in #GoogleGemini">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=spVzmy_LR2c">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IcICF_YF_tI&title=Make+the+pet+of+your+dreams+a+reality+with+Nano+Banana&lang=en&timestamp=1758916004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
     <img src="https://ytcards.demolab.com/?id=IcICF_YF_tI&title=Make+the+pet+of+your+dreams+a+reality+with+Nano+Banana&lang=en&timestamp=1758916004&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Make the pet of your dreams a reality with Nano Banana" title="Make the pet of your dreams a reality with Nano Banana">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/4EXuwZFLvjo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4EXuwZFLvjo&title=Want+your+dream+big+hair%3F+Get+it+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini.&lang=en&timestamp=1758903131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
-    <img src="https://ytcards.demolab.com/?id=4EXuwZFLvjo&title=Want+your+dream+big+hair%3F+Get+it+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini.&lang=en&timestamp=1758903131&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Want your dream big hair? Get it with #NanoBanana and #Veo3 in #GoogleGemini." title="Want your dream big hair? Get it with #NanoBanana and #Veo3 in #GoogleGemini.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/3ZEPzxqH_M8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36">
-    <img src="https://ytcards.demolab.com/?id=3ZEPzxqH_M8&title=We%E2%80%99re+gonna+need+a+bigger+belt.+Get+help+decoding+sushi+dishes+with+Gemini+%F0%9F%8D%A3%E2%9C%A8&lang=en&timestamp=1758829682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=36" alt="We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨" title="We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨">
   </picture>
 </a>
 <!-- END VID -->
