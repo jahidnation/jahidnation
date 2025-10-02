@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=2xzoQpJXvTg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2xzoQpJXvTg&title=Hear+What+Matters%3A+The+Pixel+Buds+2a+Experience+%7C+Made+by+Google+Podcast+S8E5&lang=en&timestamp=1759354141&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1098">
+    <img src="https://ytcards.demolab.com/?id=2xzoQpJXvTg&title=Hear+What+Matters%3A+The+Pixel+Buds+2a+Experience+%7C+Made+by+Google+Podcast+S8E5&lang=en&timestamp=1759354141&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1098" alt="Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5" title="Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/evK7zdcAnWg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=66">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
     <img src="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀" title="Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=IcICF_YF_tI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IcICF_YF_tI&title=Make+the+pet+of+your+dreams+a+reality+with+Nano+Banana&lang=en&timestamp=1758916004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
-    <img src="https://ytcards.demolab.com/?id=IcICF_YF_tI&title=Make+the+pet+of+your+dreams+a+reality+with+Nano+Banana&lang=en&timestamp=1758916004&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="Make the pet of your dreams a reality with Nano Banana" title="Make the pet of your dreams a reality with Nano Banana">
   </picture>
 </a>
 <!-- END VID -->
