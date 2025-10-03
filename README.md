@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/UFdDny9Jwis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UFdDny9Jwis&title=Here%E2%80%99s+to+75+years+of+Snoopy%2C+Woodstock%2C+and+the+rest+of+the+Peanuts+gang.&lang=en&timestamp=1759449129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
+    <img src="https://ytcards.demolab.com/?id=UFdDny9Jwis&title=Here%E2%80%99s+to+75+years+of+Snoopy%2C+Woodstock%2C+and+the+rest+of+the+Peanuts+gang.&lang=en&timestamp=1759449129&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="Here’s to 75 years of Snoopy, Woodstock, and the rest of the Peanuts gang." title="Here’s to 75 years of Snoopy, Woodstock, and the rest of the Peanuts gang.">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/Y7zBTn1wuZs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y7zBTn1wuZs&title=CALLING+ALL+PAPAYAS%21+Design+the+most+creative+racetrack+you+can+imagine+%F0%9F%91%80+Time+to+go+bananas%21+%F0%9F%8D%8C&lang=en&timestamp=1759378443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
+    <img src="https://ytcards.demolab.com/?id=Y7zBTn1wuZs&title=CALLING+ALL+PAPAYAS%21+Design+the+most+creative+racetrack+you+can+imagine+%F0%9F%91%80+Time+to+go+bananas%21+%F0%9F%8D%8C&lang=en&timestamp=1759378443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="CALLING ALL PAPAYAS! Design the most creative racetrack you can imagine 👀 Time to go bananas! 🍌" title="CALLING ALL PAPAYAS! Design the most creative racetrack you can imagine 👀 Time to go bananas! 🍌">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=2xzoQpJXvTg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2xzoQpJXvTg&title=Hear+What+Matters%3A+The+Pixel+Buds+2a+Experience+%7C+Made+by+Google+Podcast+S8E5&lang=en&timestamp=1759354141&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1098">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
     <img src="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="Feeling stuck? Just Ask Google." title="Feeling stuck? Just Ask Google.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/N_Bd3Fx66bA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N_Bd3Fx66bA&title=Messy+roommates%3F+There%E2%80%99s+a+chart+for+that.+Go+from+chaos+to+clean+with+help+from+Gemini+%E2%9C%A8%F0%9F%A7%BA&lang=en&timestamp=1759162653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=N_Bd3Fx66bA&title=Messy+roommates%3F+There%E2%80%99s+a+chart+for+that.+Go+from+chaos+to+clean+with+help+from+Gemini+%E2%9C%A8%F0%9F%A7%BA&lang=en&timestamp=1759162653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Messy roommates? There’s a chart for that. Go from chaos to clean with help from Gemini ✨🧺" title="Messy roommates? There’s a chart for that. Go from chaos to clean with help from Gemini ✨🧺">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/KL_yUVKmjgY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=KL_yUVKmjgY&title=Join+%40OscarPiastri+in+designing+his+dream+track%21+He%E2%80%99s+looking+for+your+most+creative+ideas+%F0%9F%91%80&lang=en&timestamp=1758921996&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀" title="Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀">
   </picture>
 </a>
 <!-- END VID -->
