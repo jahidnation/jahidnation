@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/w4U_OoepFTk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
+    <img src="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="And baby, that’s show business for you ❤️‍🔥 Search “taylor swift” to open the🚪 #TSTheLifeofaShowgirl" title="And baby, that’s show business for you ❤️‍🔥 Search “taylor swift” to open the🚪 #TSTheLifeofaShowgirl">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/UFdDny9Jwis">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UFdDny9Jwis&title=Here%E2%80%99s+to+75+years+of+Snoopy%2C+Woodstock%2C+and+the+rest+of+the+Peanuts+gang.&lang=en&timestamp=1759449129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gp62PJ07mZM&title=Miss+your+%E2%80%9990s+power+bob%3F+Re-create+that+fly+hairstyle+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini&lang=en&timestamp=1759251561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
     <img src="https://ytcards.demolab.com/?id=gp62PJ07mZM&title=Miss+your+%E2%80%9990s+power+bob%3F+Re-create+that+fly+hairstyle+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini&lang=en&timestamp=1759251561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Miss your ’90s power bob? Re-create that fly hairstyle with #NanoBanana and #Veo3 in #GoogleGemini" title="Miss your ’90s power bob? Re-create that fly hairstyle with #NanoBanana and #Veo3 in #GoogleGemini">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=spVzmy_LR2c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
-    <img src="https://ytcards.demolab.com/?id=spVzmy_LR2c&title=Feeling+stuck%3F+Just+Ask+Google.&lang=en&timestamp=1759169172&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="Feeling stuck? Just Ask Google." title="Feeling stuck? Just Ask Google.">
   </picture>
 </a>
 <!-- END VID -->
