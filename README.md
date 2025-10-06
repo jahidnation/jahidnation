@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/lfSEFO_04m4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lfSEFO_04m4&title=A+masterclass+in+speed+%26+performance.+Congrats+%40mclaren+on+a+season+of+success.+%23ThisTeam&lang=en&timestamp=1759672839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
+    <img src="https://ytcards.demolab.com/?id=lfSEFO_04m4&title=A+masterclass+in+speed+%26+performance.+Congrats+%40mclaren+on+a+season+of+success.+%23ThisTeam&lang=en&timestamp=1759672839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="A masterclass in speed & performance. Congrats @mclaren on a season of success. #ThisTeam" title="A masterclass in speed & performance. Congrats @mclaren on a season of success. #ThisTeam">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/w4U_OoepFTk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=66">
     <img src="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=66" alt="Becoming an at-home barista?  🍵 Talk it out with Search to get tips for the perfect cup of matcha." title="Becoming an at-home barista?  🍵 Talk it out with Search to get tips for the perfect cup of matcha.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/gp62PJ07mZM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gp62PJ07mZM&title=Miss+your+%E2%80%9990s+power+bob%3F+Re-create+that+fly+hairstyle+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini&lang=en&timestamp=1759251561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
-    <img src="https://ytcards.demolab.com/?id=gp62PJ07mZM&title=Miss+your+%E2%80%9990s+power+bob%3F+Re-create+that+fly+hairstyle+with+%23NanoBanana+and+%23Veo3+in+%23GoogleGemini&lang=en&timestamp=1759251561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Miss your ’90s power bob? Re-create that fly hairstyle with #NanoBanana and #Veo3 in #GoogleGemini" title="Miss your ’90s power bob? Re-create that fly hairstyle with #NanoBanana and #Veo3 in #GoogleGemini">
   </picture>
 </a>
 <!-- END VID -->
