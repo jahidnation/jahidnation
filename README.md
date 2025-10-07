@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/tjPvR5RKYYQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Getting your Halloween couples costume ready has never been easier 🎃" title="Getting your Halloween couples costume ready has never been easier 🎃">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=szxE119K27A">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=szxE119K27A&title=Lost+the+plot%3F+Just+ask+Google+to+get+the+tea.+%E2%98%95%EF%B8%8F&lang=en&timestamp=1759767587&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
+    <img src="https://ytcards.demolab.com/?id=szxE119K27A&title=Lost+the+plot%3F+Just+ask+Google+to+get+the+tea.+%E2%98%95%EF%B8%8F&lang=en&timestamp=1759767587&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="Lost the plot? Just ask Google to get the tea. ☕️" title="Lost the plot? Just ask Google to get the tea. ☕️">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/lfSEFO_04m4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lfSEFO_04m4&title=A+masterclass+in+speed+%26+performance.+Congrats+%40mclaren+on+a+season+of+success.+%23ThisTeam&lang=en&timestamp=1759672839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y7zBTn1wuZs&title=CALLING+ALL+PAPAYAS%21+Design+the+most+creative+racetrack+you+can+imagine+%F0%9F%91%80+Time+to+go+bananas%21+%F0%9F%8D%8C&lang=en&timestamp=1759378443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
     <img src="https://ytcards.demolab.com/?id=Y7zBTn1wuZs&title=CALLING+ALL+PAPAYAS%21+Design+the+most+creative+racetrack+you+can+imagine+%F0%9F%91%80+Time+to+go+bananas%21+%F0%9F%8D%8C&lang=en&timestamp=1759378443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="CALLING ALL PAPAYAS! Design the most creative racetrack you can imagine 👀 Time to go bananas! 🍌" title="CALLING ALL PAPAYAS! Design the most creative racetrack you can imagine 👀 Time to go bananas! 🍌">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=2xzoQpJXvTg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2xzoQpJXvTg&title=Hear+What+Matters%3A+The+Pixel+Buds+2a+Experience+%7C+Made+by+Google+Podcast+S8E5&lang=en&timestamp=1759354141&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1098">
-    <img src="https://ytcards.demolab.com/?id=2xzoQpJXvTg&title=Hear+What+Matters%3A+The+Pixel+Buds+2a+Experience+%7C+Made+by+Google+Podcast+S8E5&lang=en&timestamp=1759354141&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1098" alt="Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5" title="Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/evK7zdcAnWg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=66">
-    <img src="https://ytcards.demolab.com/?id=evK7zdcAnWg&title=Becoming+an+at-home+barista%3F++%F0%9F%8D%B5+Talk+it+out+with+Search+to+get+tips+for+the+perfect+cup+of+matcha.&lang=en&timestamp=1759265220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=66" alt="Becoming an at-home barista?  🍵 Talk it out with Search to get tips for the perfect cup of matcha." title="Becoming an at-home barista?  🍵 Talk it out with Search to get tips for the perfect cup of matcha.">
   </picture>
 </a>
 <!-- END VID -->
