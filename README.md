@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/watch?v=yY8N3t96yrM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yY8N3t96yrM&title=The+AI+Smart+Home+is+Finally+Here%3A+Gemini+Powers+Up+Google+Home+%7C+Made+by+Google+Podcast+S8E6&lang=en&timestamp=1759964600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3425">
+    <img src="https://ytcards.demolab.com/?id=yY8N3t96yrM&title=The+AI+Smart+Home+is+Finally+Here%3A+Gemini+Powers+Up+Google+Home+%7C+Made+by+Google+Podcast+S8E6&lang=en&timestamp=1759964600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3425" alt="The AI Smart Home is Finally Here: Gemini Powers Up Google Home | Made by Google Podcast S8E6" title="The AI Smart Home is Finally Here: Gemini Powers Up Google Home | Made by Google Podcast S8E6">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/lXaAGljTcwM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lXaAGljTcwM&title=The+%28northern%29+lights+shine+brightest+in+October%21+Can%27t+make+the+trip%3F+Search+%22northern+lights%22&lang=en&timestamp=1759955022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
+    <img src="https://ytcards.demolab.com/?id=lXaAGljTcwM&title=The+%28northern%29+lights+shine+brightest+in+October%21+Can%27t+make+the+trip%3F+Search+%22northern+lights%22&lang=en&timestamp=1759955022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="The (northern) lights shine brightest in October! Can't make the trip? Search &quot;northern lights&quot;" title="The (northern) lights shine brightest in October! Can't make the trip? Search &quot;northern lights&quot;">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/tjPvR5RKYYQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
     <img src="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="And baby, that’s show business for you ❤️‍🔥 Search “taylor swift” to open the🚪 #TSTheLifeofaShowgirl" title="And baby, that’s show business for you ❤️‍🔥 Search “taylor swift” to open the🚪 #TSTheLifeofaShowgirl">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/UFdDny9Jwis">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UFdDny9Jwis&title=Here%E2%80%99s+to+75+years+of+Snoopy%2C+Woodstock%2C+and+the+rest+of+the+Peanuts+gang.&lang=en&timestamp=1759449129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
-    <img src="https://ytcards.demolab.com/?id=UFdDny9Jwis&title=Here%E2%80%99s+to+75+years+of+Snoopy%2C+Woodstock%2C+and+the+rest+of+the+Peanuts+gang.&lang=en&timestamp=1759449129&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="Here’s to 75 years of Snoopy, Woodstock, and the rest of the Peanuts gang." title="Here’s to 75 years of Snoopy, Woodstock, and the rest of the Peanuts gang.">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/Y7zBTn1wuZs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y7zBTn1wuZs&title=CALLING+ALL+PAPAYAS%21+Design+the+most+creative+racetrack+you+can+imagine+%F0%9F%91%80+Time+to+go+bananas%21+%F0%9F%8D%8C&lang=en&timestamp=1759378443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
-    <img src="https://ytcards.demolab.com/?id=Y7zBTn1wuZs&title=CALLING+ALL+PAPAYAS%21+Design+the+most+creative+racetrack+you+can+imagine+%F0%9F%91%80+Time+to+go+bananas%21+%F0%9F%8D%8C&lang=en&timestamp=1759378443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="CALLING ALL PAPAYAS! Design the most creative racetrack you can imagine 👀 Time to go bananas! 🍌" title="CALLING ALL PAPAYAS! Design the most creative racetrack you can imagine 👀 Time to go bananas! 🍌">
   </picture>
 </a>
 <!-- END VID -->
