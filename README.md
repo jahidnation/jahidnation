@@ -35,6 +35,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/DCUsYTWbOE0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
+    <img src="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="AI Mode is now live in 40+ languages and 200+ markets, including Europe!" title="AI Mode is now live in 40+ languages and 200+ markets, including Europe!">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/HnDciy1PHAo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HnDciy1PHAo&title=Unboxing+the+new+Pixel+10+Pro+Fold&lang=en&timestamp=1760030843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
+    <img src="https://ytcards.demolab.com/?id=HnDciy1PHAo&title=Unboxing+the+new+Pixel+10+Pro+Fold&lang=en&timestamp=1760030843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Unboxing the new Pixel 10 Pro Fold" title="Unboxing the new Pixel 10 Pro Fold">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=yY8N3t96yrM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yY8N3t96yrM&title=The+AI+Smart+Home+is+Finally+Here%3A+Gemini+Powers+Up+Google+Home+%7C+Made+by+Google+Podcast+S8E6&lang=en&timestamp=1759964600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3425">
@@ -57,18 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=szxE119K27A&title=Lost+the+plot%3F+Just+ask+Google+to+get+the+tea.+%E2%98%95%EF%B8%8F&lang=en&timestamp=1759767587&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
     <img src="https://ytcards.demolab.com/?id=szxE119K27A&title=Lost+the+plot%3F+Just+ask+Google+to+get+the+tea.+%E2%98%95%EF%B8%8F&lang=en&timestamp=1759767587&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="Lost the plot? Just ask Google to get the tea. ☕️" title="Lost the plot? Just ask Google to get the tea. ☕️">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/lfSEFO_04m4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lfSEFO_04m4&title=A+masterclass+in+speed+%26+performance.+Congrats+%40mclaren+on+a+season+of+success.+%23ThisTeam&lang=en&timestamp=1759672839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
-    <img src="https://ytcards.demolab.com/?id=lfSEFO_04m4&title=A+masterclass+in+speed+%26+performance.+Congrats+%40mclaren+on+a+season+of+success.+%23ThisTeam&lang=en&timestamp=1759672839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="A masterclass in speed & performance. Congrats @mclaren on a season of success. #ThisTeam" title="A masterclass in speed & performance. Congrats @mclaren on a season of success. #ThisTeam">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/w4U_OoepFTk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
-    <img src="https://ytcards.demolab.com/?id=w4U_OoepFTk&title=And+baby%2C+that%E2%80%99s+show+business+for+you+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Search+%E2%80%9Ctaylor+swift%E2%80%9D+to+open+the%F0%9F%9A%AA+%23TSTheLifeofaShowgirl&lang=en&timestamp=1759594136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="And baby, that’s show business for you ❤️‍🔥 Search “taylor swift” to open the🚪 #TSTheLifeofaShowgirl" title="And baby, that’s show business for you ❤️‍🔥 Search “taylor swift” to open the🚪 #TSTheLifeofaShowgirl">
   </picture>
 </a>
 <!-- END VID -->
