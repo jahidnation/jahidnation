@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/8Ox_DOdrP4w">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Ox_DOdrP4w&title=Unboxing+the+new+Pixel+Watch+4+in+both+sizes&lang=en&timestamp=1760113047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
+    <img src="https://ytcards.demolab.com/?id=8Ox_DOdrP4w&title=Unboxing+the+new+Pixel+Watch+4+in+both+sizes&lang=en&timestamp=1760113047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Unboxing the new Pixel Watch 4 in both sizes" title="Unboxing the new Pixel Watch 4 in both sizes">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/DCUsYTWbOE0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
     <img src="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Getting your Halloween couples costume ready has never been easier 🎃" title="Getting your Halloween couples costume ready has never been easier 🎃">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=szxE119K27A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=szxE119K27A&title=Lost+the+plot%3F+Just+ask+Google+to+get+the+tea.+%E2%98%95%EF%B8%8F&lang=en&timestamp=1759767587&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
-    <img src="https://ytcards.demolab.com/?id=szxE119K27A&title=Lost+the+plot%3F+Just+ask+Google+to+get+the+tea.+%E2%98%95%EF%B8%8F&lang=en&timestamp=1759767587&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="Lost the plot? Just ask Google to get the tea. ☕️" title="Lost the plot? Just ask Google to get the tea. ☕️">
   </picture>
 </a>
 <!-- END VID -->
