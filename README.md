@@ -35,6 +35,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/3AQXnN-4Q6g">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AQXnN-4Q6g&title=Stay+one+step+ahead+with+Magic+Cue+on+%23Pixel10&lang=en&timestamp=1760372358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
+    <img src="https://ytcards.demolab.com/?id=3AQXnN-4Q6g&title=Stay+one+step+ahead+with+Magic+Cue+on+%23Pixel10&lang=en&timestamp=1760372358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="Stay one step ahead with Magic Cue on #Pixel10" title="Stay one step ahead with Magic Cue on #Pixel10">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/8Ox_DOdrP4w">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Ox_DOdrP4w&title=Unboxing+the+new+Pixel+Watch+4+in+both+sizes&lang=en&timestamp=1760113047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
@@ -63,12 +69,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lXaAGljTcwM&title=The+%28northern%29+lights+shine+brightest+in+October%21+Can%27t+make+the+trip%3F+Search+%22northern+lights%22&lang=en&timestamp=1759955022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
     <img src="https://ytcards.demolab.com/?id=lXaAGljTcwM&title=The+%28northern%29+lights+shine+brightest+in+October%21+Can%27t+make+the+trip%3F+Search+%22northern+lights%22&lang=en&timestamp=1759955022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="The (northern) lights shine brightest in October! Can't make the trip? Search &quot;northern lights&quot;" title="The (northern) lights shine brightest in October! Can't make the trip? Search &quot;northern lights&quot;">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/tjPvR5RKYYQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=tjPvR5RKYYQ&title=Getting+your+Halloween+couples+costume+ready+has+never+been+easier+%F0%9F%8E%83&lang=en&timestamp=1759781912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Getting your Halloween couples costume ready has never been easier 🎃" title="Getting your Halloween couples costume ready has never been easier 🎃">
   </picture>
 </a>
 <!-- END VID -->
