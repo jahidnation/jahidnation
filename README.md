@@ -1,4 +1,4 @@
-<h1 align="center">Jahid Hasan </h1><img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" />
+<h1 align="center">Jahid Hasan <img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" /></h1>
 <p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
