@@ -1,6 +1,8 @@
-<a href="https://github.com/jahidnation">
-  <h1 align="center">Jahid Hasan<img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" /></h1>
-</a>
+<h1 align="center">
+  <a href="https://github.com/jahidnation" style="text-decoration: none; color: inherit;">
+    Jahid Hasan <img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" alt="icon" />
+  </a>
+</h1>
 <p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
