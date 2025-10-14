@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/jahidnation">
-    Jahid Hasan <img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" alt="icon" />
+    Jahid Hasan <img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" alt="Verified" />
   </a>
 </h1>
 <p align="center">
