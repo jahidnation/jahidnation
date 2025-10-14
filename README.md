@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/jahidnation" style="text-decoration: none; color: white;">
+  <a href="https://github.com/jahidnation">
     Jahid Hasan <img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" alt="icon" />
   </a>
 </h1>
