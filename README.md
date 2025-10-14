@@ -4,7 +4,9 @@
   </a>
 </h1>
 <p align="center">
-  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+  <a href="https://jahid.eu.org">
+    <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+  </a>
 </p>
 <details open>
  <summary><h3>🌟 About Me</h3></summary>
