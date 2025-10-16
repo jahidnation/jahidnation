@@ -41,6 +41,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/I25HsDChRS0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I25HsDChRS0&title=Turn+your+selfie+into+a+pumpkin+%F0%9F%8E%83&lang=en&timestamp=1760566292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32">
+    <img src="https://ytcards.demolab.com/?id=I25HsDChRS0&title=Turn+your+selfie+into+a+pumpkin+%F0%9F%8E%83&lang=en&timestamp=1760566292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=32" alt="Turn your selfie into a pumpkin 🎃" title="Turn your selfie into a pumpkin 🎃">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/_K8wuHgLLKY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_K8wuHgLLKY&title=Some+things+don%E2%80%99t+need+to+be+seen+to+be+felt.+For+%40marcanthony%2C+that%E2%80%99s+salsa+music.&lang=en&timestamp=1760546069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
+    <img src="https://ytcards.demolab.com/?id=_K8wuHgLLKY&title=Some+things+don%E2%80%99t+need+to+be+seen+to+be+felt.+For+%40marcanthony%2C+that%E2%80%99s+salsa+music.&lang=en&timestamp=1760546069&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="Some things don’t need to be seen to be felt. For @marcanthony, that’s salsa music." title="Some things don’t need to be seen to be felt. For @marcanthony, that’s salsa music.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/3AQXnN-4Q6g">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AQXnN-4Q6g&title=Stay+one+step+ahead+with+Magic+Cue+on+%23Pixel10&lang=en&timestamp=1760372358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
@@ -63,18 +75,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HnDciy1PHAo&title=Unboxing+the+new+Pixel+10+Pro+Fold&lang=en&timestamp=1760030843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
     <img src="https://ytcards.demolab.com/?id=HnDciy1PHAo&title=Unboxing+the+new+Pixel+10+Pro+Fold&lang=en&timestamp=1760030843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Unboxing the new Pixel 10 Pro Fold" title="Unboxing the new Pixel 10 Pro Fold">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=yY8N3t96yrM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yY8N3t96yrM&title=The+AI+Smart+Home+is+Finally+Here%3A+Gemini+Powers+Up+Google+Home+%7C+Made+by+Google+Podcast+S8E6&lang=en&timestamp=1759964600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3425">
-    <img src="https://ytcards.demolab.com/?id=yY8N3t96yrM&title=The+AI+Smart+Home+is+Finally+Here%3A+Gemini+Powers+Up+Google+Home+%7C+Made+by+Google+Podcast+S8E6&lang=en&timestamp=1759964600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3425" alt="The AI Smart Home is Finally Here: Gemini Powers Up Google Home | Made by Google Podcast S8E6" title="The AI Smart Home is Finally Here: Gemini Powers Up Google Home | Made by Google Podcast S8E6">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/lXaAGljTcwM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lXaAGljTcwM&title=The+%28northern%29+lights+shine+brightest+in+October%21+Can%27t+make+the+trip%3F+Search+%22northern+lights%22&lang=en&timestamp=1759955022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
-    <img src="https://ytcards.demolab.com/?id=lXaAGljTcwM&title=The+%28northern%29+lights+shine+brightest+in+October%21+Can%27t+make+the+trip%3F+Search+%22northern+lights%22&lang=en&timestamp=1759955022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt="The (northern) lights shine brightest in October! Can't make the trip? Search &quot;northern lights&quot;" title="The (northern) lights shine brightest in October! Can't make the trip? Search &quot;northern lights&quot;">
   </picture>
 </a>
 <!-- END VID -->
