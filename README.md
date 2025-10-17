@@ -41,6 +41,12 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/71aGser4iZ8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=71aGser4iZ8&title=Get+access+to+Nano+Banana+right+inside+Google+Search.+Just+open+Lens+in+the+Google+app+%26+tap+the+%F0%9F%8D%8C&lang=en&timestamp=1760644882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
+    <img src="https://ytcards.demolab.com/?id=71aGser4iZ8&title=Get+access+to+Nano+Banana+right+inside+Google+Search.+Just+open+Lens+in+the+Google+app+%26+tap+the+%F0%9F%8D%8C&lang=en&timestamp=1760644882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=59" alt="Get access to Nano Banana right inside Google Search. Just open Lens in the Google app & tap the 🍌" title="Get access to Nano Banana right inside Google Search. Just open Lens in the Google app & tap the 🍌">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/I25HsDChRS0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I25HsDChRS0&title=Turn+your+selfie+into+a+pumpkin+%F0%9F%8E%83&lang=en&timestamp=1760566292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32">
@@ -69,12 +75,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
     <img src="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="AI Mode is now live in 40+ languages and 200+ markets, including Europe!" title="AI Mode is now live in 40+ languages and 200+ markets, including Europe!">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/HnDciy1PHAo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HnDciy1PHAo&title=Unboxing+the+new+Pixel+10+Pro+Fold&lang=en&timestamp=1760030843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25">
-    <img src="https://ytcards.demolab.com/?id=HnDciy1PHAo&title=Unboxing+the+new+Pixel+10+Pro+Fold&lang=en&timestamp=1760030843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25" alt="Unboxing the new Pixel 10 Pro Fold" title="Unboxing the new Pixel 10 Pro Fold">
   </picture>
 </a>
 <!-- END VID -->
