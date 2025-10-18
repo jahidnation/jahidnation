@@ -41,6 +41,18 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 <!-- BEGIN VID -->
+<a href="https://www.youtube.com/shorts/T0CRrJnI7F0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T0CRrJnI7F0&title=Turn+any+Search+into+a+picture+%E2%9C%A8+The+%23NanoBanana+button+is+live+in+AI+Mode.+Tap+to+start+creating%21&lang=en&timestamp=1760727669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=T0CRrJnI7F0&title=Turn+any+Search+into+a+picture+%E2%9C%A8+The+%23NanoBanana+button+is+live+in+AI+Mode.+Tap+to+start+creating%21&lang=en&timestamp=1760727669&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="Turn any Search into a picture ✨ The #NanoBanana button is live in AI Mode. Tap to start creating!" title="Turn any Search into a picture ✨ The #NanoBanana button is live in AI Mode. Tap to start creating!">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/ku_WtS3c0JY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ku_WtS3c0JY&title=Want+to+make+a+museum-worthy+selfie%3F+Just+open+Lens+in+the+Google+app+and+tap+the+%F0%9F%8D%8C&lang=en&timestamp=1760719862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27">
+    <img src="https://ytcards.demolab.com/?id=ku_WtS3c0JY&title=Want+to+make+a+museum-worthy+selfie%3F+Just+open+Lens+in+the+Google+app+and+tap+the+%F0%9F%8D%8C&lang=en&timestamp=1760719862&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=27" alt="Want to make a museum-worthy selfie? Just open Lens in the Google app and tap the 🍌" title="Want to make a museum-worthy selfie? Just open Lens in the Google app and tap the 🍌">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/71aGser4iZ8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=71aGser4iZ8&title=Get+access+to+Nano+Banana+right+inside+Google+Search.+Just+open+Lens+in+the+Google+app+%26+tap+the+%F0%9F%8D%8C&lang=en&timestamp=1760644882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
@@ -63,18 +75,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AQXnN-4Q6g&title=Stay+one+step+ahead+with+Magic+Cue+on+%23Pixel10&lang=en&timestamp=1760372358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
     <img src="https://ytcards.demolab.com/?id=3AQXnN-4Q6g&title=Stay+one+step+ahead+with+Magic+Cue+on+%23Pixel10&lang=en&timestamp=1760372358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="Stay one step ahead with Magic Cue on #Pixel10" title="Stay one step ahead with Magic Cue on #Pixel10">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/8Ox_DOdrP4w">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Ox_DOdrP4w&title=Unboxing+the+new+Pixel+Watch+4+in+both+sizes&lang=en&timestamp=1760113047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
-    <img src="https://ytcards.demolab.com/?id=8Ox_DOdrP4w&title=Unboxing+the+new+Pixel+Watch+4+in+both+sizes&lang=en&timestamp=1760113047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Unboxing the new Pixel Watch 4 in both sizes" title="Unboxing the new Pixel Watch 4 in both sizes">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/DCUsYTWbOE0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
-    <img src="https://ytcards.demolab.com/?id=DCUsYTWbOE0&title=AI+Mode+is+now+live+in+40%2B+languages+and+200%2B+markets%2C+including+Europe%21&lang=en&timestamp=1760040407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="AI Mode is now live in 40+ languages and 200+ markets, including Europe!" title="AI Mode is now live in 40+ languages and 200+ markets, including Europe!">
   </picture>
 </a>
 <!-- END VID -->
